@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest'
 import { generateResetCss } from '../src/artifacts/css/reset-css'
 import { createHooks } from 'hookable'
-import type { PandaHooks } from '@pandacss/types'
+import type { PandaHooks } from '@mfauzanap_pandacss/types'
 import { generator } from './fixture'
 
 describe('generate reset', () => {

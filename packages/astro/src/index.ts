@@ -26,7 +26,7 @@ async function getViteConfig(viteConfig: AstroConfig['vite']) {
 
   const postcssPlugins = postcssConfig?.plugins?.slice() ?? []
 
-  postcssPlugins.push(interopDefault(require('@pandacss/postcss')))
+  postcssPlugins.push(interopDefault(require('@mfauzanap_pandacss/postcss')))
   postcssPlugins.push(autoprefixerPlugin())
 
   return {
@@ -51,7 +51,7 @@ export default function pandaIntegration(options?: PandaOptions): AstroIntegrati
   const applyBaseStyles = options?.applyBaseStyles ?? true
 
   return {
-    name: '@pandacss/astro',
+    name: '@mfauzanap_pandacss/astro',
     hooks: {
       'astro:config:setup': async ({ config, updateConfig, injectScript }) => {
         updateConfig({
@@ -60,7 +60,7 @@ export default function pandaIntegration(options?: PandaOptions): AstroIntegrati
 
         if (applyBaseStyles) {
           // Inject the Panda base import
-          injectScript('page-ssr', `import '@pandacss/astro/base.css';`)
+          injectScript('page-ssr', `import '@mfauzanap_pandacss/astro/base.css';`)
         }
       },
     },

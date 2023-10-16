@@ -1,4 +1,4 @@
-import type { UtilityConfig, PropertyValues } from '@pandacss/types'
+import type { UtilityConfig, PropertyValues } from '@mfauzanap_pandacss/types'
 
 const widthValues: PropertyValues = (theme) => ({
   auto: 'auto',

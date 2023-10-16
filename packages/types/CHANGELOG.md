@@ -1,4 +1,4 @@
-# @pandacss/types
+# @mfauzanap_pandacss/types
 
 ## 0.15.5
 
@@ -224,7 +224,7 @@
   To track the `CustomCircle` component, you can now use the `jsx` property.
 
   ```js
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     patterns: {
@@ -319,7 +319,7 @@
 - 5b344b9c: Add support for disabling shorthand props
 
   ```ts
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     // ...
@@ -360,4 +360,4 @@
   - Add `jsxElement` option to patterns, to allow specifying the jsx element rendered by the patterns.
 
 - Updated dependencies [fb40fff2]
-  - @pandacss/extractor@0.0.2
+  - @mfauzanap_pandacss/extractor@0.0.2

@@ -1,4 +1,4 @@
-# @pandacss/error
+# @mfauzanap_pandacss/error
 
 ## 0.15.5
 

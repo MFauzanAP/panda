@@ -1,4 +1,4 @@
-import type { CssKeyframes, Dict } from '@pandacss/types'
+import type { CssKeyframes, Dict } from '@mfauzanap_pandacss/types'
 import postcss from 'postcss'
 import { toCss } from './to-css'
 

@@ -1,4 +1,4 @@
-import { definePreset, defineSemanticTokens } from '@pandacss/dev'
+import { definePreset, defineSemanticTokens } from '@mfauzanap_pandacss/dev'
 
 export const tsImportPreset = definePreset({
   theme: {

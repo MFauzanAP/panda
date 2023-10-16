@@ -1,4 +1,4 @@
-import type { StaticCssOptions } from '@pandacss/types'
+import type { StaticCssOptions } from '@mfauzanap_pandacss/types'
 
 type StaticContext = {
   breakpoints: string[]

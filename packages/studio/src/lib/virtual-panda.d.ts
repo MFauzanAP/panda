@@ -1,3 +1,3 @@
 declare module 'virtual:*' {
-  export const config: import('@pandacss/types').UserConfig
+  export const config: import('@mfauzanap_pandacss/types').UserConfig
 }

@@ -4,14 +4,14 @@ import type { Context } from '../../engines'
 export const generateTypesEntry = (ctx: Context) => ({
   global: outdent`
     // @ts-nocheck
-    import type * as Panda from '@pandacss/dev'
+    import type * as Panda from '@mfauzanap_pandacss/dev'
     ${ctx.file.importType('RecipeVariantRecord, RecipeConfig, SlotRecipeVariantRecord, SlotRecipeConfig', './recipe')}
     ${ctx.file.importType('Parts', './parts')}
     ${ctx.file.importType('PatternConfig, PatternProperties', './pattern')}
     ${ctx.file.importType('GlobalStyleObject, SystemStyleObject', './system-types')}
     ${ctx.file.importType('CompositionStyles', './composition')}
 
-    declare module '@pandacss/dev' {
+    declare module '@mfauzanap_pandacss/dev' {
       export function defineRecipe<V extends RecipeVariantRecord>(config: RecipeConfig<V>): Panda.RecipeConfig
       export function defineSlotRecipe<S extends string, V extends SlotRecipeVariantRecord<S>>(config: SlotRecipeConfig<S, V>): Panda.SlotRecipeConfig
       export function defineStyles(definition: SystemStyleObject): SystemStyleObject

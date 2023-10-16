@@ -6,11 +6,11 @@ import {
   assignCompositions,
   type StylesheetContext,
   type StylesheetOptions,
-} from '@pandacss/core'
-import { isCssProperty } from '@pandacss/is-valid-prop'
-import { compact, mapObject, memo } from '@pandacss/shared'
-import { TokenDictionary } from '@pandacss/token-dictionary'
-import type { CascadeLayers, ConfigResultWithHooks, TSConfig as _TSConfig } from '@pandacss/types'
+} from '@mfauzanap_pandacss/core'
+import { isCssProperty } from '@mfauzanap_pandacss/is-valid-prop'
+import { compact, mapObject, memo } from '@mfauzanap_pandacss/shared'
+import { TokenDictionary } from '@mfauzanap_pandacss/token-dictionary'
+import type { CascadeLayers, ConfigResultWithHooks, TSConfig as _TSConfig } from '@mfauzanap_pandacss/types'
 import { isBool, isStr } from 'lil-fp'
 import postcss from 'postcss'
 

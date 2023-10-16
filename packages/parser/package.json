@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/parser",
+  "name": "@mfauzanap_pandacss/parser",
   "version": "0.15.5",
   "description": "The static parser for panda css",
   "main": "dist/index.js",
@@ -16,12 +16,12 @@
     "dev": "pnpm build-fast --watch"
   },
   "dependencies": {
-    "@pandacss/config": "workspace:^",
-    "@pandacss/extractor": "workspace:*",
-    "@pandacss/is-valid-prop": "workspace:*",
-    "@pandacss/logger": "workspace:*",
-    "@pandacss/shared": "workspace:*",
-    "@pandacss/types": "workspace:*",
+    "@mfauzanap_pandacss/config": "workspace:^",
+    "@mfauzanap_pandacss/extractor": "workspace:*",
+    "@mfauzanap_pandacss/is-valid-prop": "workspace:*",
+    "@mfauzanap_pandacss/logger": "workspace:*",
+    "@mfauzanap_pandacss/shared": "workspace:*",
+    "@mfauzanap_pandacss/types": "workspace:*",
     "@vue/compiler-sfc": "^3.3.4",
     "lil-fp": "1.4.5",
     "magic-string": "^0.30.2",
@@ -29,8 +29,8 @@
     "ts-pattern": "5.0.5"
   },
   "devDependencies": {
-    "@pandacss/fixture": "workspace:*",
-    "@pandacss/generator": "workspace:*",
+    "@mfauzanap_pandacss/fixture": "workspace:*",
+    "@mfauzanap_pandacss/generator": "workspace:*",
     "hookable": "5.5.3"
   },
   "files": [

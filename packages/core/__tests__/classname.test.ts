@@ -1,4 +1,4 @@
-import { createCss } from '@pandacss/shared'
+import { createCss } from '@mfauzanap_pandacss/shared'
 import { describe, expect, test } from 'vitest'
 import { createContext } from './fixture'
 

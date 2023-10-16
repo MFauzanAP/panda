@@ -1,4 +1,4 @@
-import type { BoxNodeMap, BoxNodeLiteral, Unboxed, BoxNodeArray } from '@pandacss/extractor'
+import type { BoxNodeMap, BoxNodeLiteral, Unboxed, BoxNodeArray } from '@mfauzanap_pandacss/extractor'
 
 export interface ResultItem {
   name?: string

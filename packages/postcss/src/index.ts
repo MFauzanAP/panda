@@ -1,4 +1,4 @@
-import { Builder } from '@pandacss/node'
+import { Builder } from '@mfauzanap_pandacss/node'
 import type { PluginCreator } from 'postcss'
 import { createRequire } from 'module'
 
@@ -8,7 +8,7 @@ const PLUGIN_NAME = 'pandacss'
 
 const interopDefault = (obj: any) => (obj && obj.__esModule ? obj.default : obj)
 
-export const loadConfig = () => interopDefault(require('@pandacss/postcss'))
+export const loadConfig = () => interopDefault(require('@mfauzanap_pandacss/postcss'))
 
 export const pandacss: PluginCreator<{ configPath?: string; cwd?: string }> = (options = {}) => {
   const { configPath, cwd } = options

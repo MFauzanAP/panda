@@ -1,5 +1,5 @@
-import { colors, logger } from '@pandacss/logger'
-import { createParserResult } from '@pandacss/parser'
+import { colors, logger } from '@mfauzanap_pandacss/logger'
+import { createParserResult } from '@mfauzanap_pandacss/parser'
 import { writeFile } from 'fs/promises'
 import * as path from 'path'
 import type { PandaContext } from './create-context'

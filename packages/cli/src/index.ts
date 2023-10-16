@@ -16,7 +16,7 @@ import type {
   SystemStyleObject,
   TextStyles,
   Tokens,
-} from '@pandacss/types'
+} from '@mfauzanap_pandacss/types'
 
 /* -----------------------------------------------------------------------------
  * Config creators

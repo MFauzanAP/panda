@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/studio",
+  "name": "@mfauzanap_pandacss/studio",
   "version": "0.15.5",
   "description": "The automated token documentation for Panda CSS",
   "main": "dist/studio.js",
@@ -38,12 +38,12 @@
   "dependencies": {
     "@ark-ui/react": "0.9.0",
     "@astrojs/react": "2.2.1",
-    "@pandacss/config": "workspace:*",
-    "@pandacss/logger": "workspace:*",
-    "@pandacss/node": "workspace:*",
-    "@pandacss/shared": "workspace:*",
-    "@pandacss/token-dictionary": "workspace:*",
-    "@pandacss/types": "workspace:*",
+    "@mfauzanap_pandacss/config": "workspace:*",
+    "@mfauzanap_pandacss/logger": "workspace:*",
+    "@mfauzanap_pandacss/node": "workspace:*",
+    "@mfauzanap_pandacss/shared": "workspace:*",
+    "@mfauzanap_pandacss/token-dictionary": "workspace:*",
+    "@mfauzanap_pandacss/types": "workspace:*",
     "astro": "2.9.6",
     "javascript-stringify": "2.1.0",
     "react": "18.2.0",
@@ -51,7 +51,7 @@
     "vite": "4.4.11"
   },
   "devDependencies": {
-    "@pandacss/dev": "workspace:*",
+    "@mfauzanap_pandacss/dev": "workspace:*",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
     "@vitejs/plugin-react": "4.0.4",

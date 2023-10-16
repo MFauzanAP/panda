@@ -1,4 +1,4 @@
-import type { Preset } from '@pandacss/types'
+import type { Preset } from '@mfauzanap_pandacss/types'
 
 import { conditions } from './conditions'
 import { utilities } from './utilities'

@@ -1,5 +1,5 @@
-import { logger } from '@pandacss/logger'
-import type { ParserResultType } from '@pandacss/types'
+import { logger } from '@mfauzanap_pandacss/logger'
+import type { ParserResultType } from '@mfauzanap_pandacss/types'
 import { filesize } from 'filesize'
 import { writeFile } from 'fs/promises'
 import zlib from 'zlib'

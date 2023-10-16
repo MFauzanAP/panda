@@ -1,4 +1,4 @@
-import { defineSemanticTokens } from '@pandacss/dev'
+import { defineSemanticTokens } from '@mfauzanap_pandacss/dev'
 
 export const semanticTokens = defineSemanticTokens({
   colors: {

@@ -1,7 +1,7 @@
-import { mergeCss } from '@pandacss/core'
-import type { Generator } from '@pandacss/generator'
-import type { Artifact, PandaHookable } from '@pandacss/types'
-import type { Runtime } from '@pandacss/types/src/runtime'
+import { mergeCss } from '@mfauzanap_pandacss/core'
+import type { Generator } from '@mfauzanap_pandacss/generator'
+import type { Artifact, PandaHookable } from '@mfauzanap_pandacss/types'
+import type { Runtime } from '@mfauzanap_pandacss/types/src/runtime'
 
 export const getChunkEngine = ({
   paths,

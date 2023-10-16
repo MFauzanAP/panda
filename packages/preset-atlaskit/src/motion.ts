@@ -1,4 +1,4 @@
-import type { Theme, Tokens } from '@pandacss/types'
+import type { Theme, Tokens } from '@mfauzanap_pandacss/types'
 
 export const keyframes: Theme['keyframes'] = {
   'fade-in': {

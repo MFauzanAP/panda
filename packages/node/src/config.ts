@@ -1,5 +1,5 @@
-import { convertTsPathsToRegexes, loadConfigFile } from '@pandacss/config'
-import type { Config, ConfigResultWithHooks, PandaHooks } from '@pandacss/types'
+import { convertTsPathsToRegexes, loadConfigFile } from '@mfauzanap_pandacss/config'
+import type { Config, ConfigResultWithHooks, PandaHooks } from '@mfauzanap_pandacss/types'
 import { createDebugger, createHooks } from 'hookable'
 import { lookItUpSync } from 'look-it-up'
 import { parse } from 'tsconfck'

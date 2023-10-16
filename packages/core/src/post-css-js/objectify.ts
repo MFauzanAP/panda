@@ -1,4 +1,4 @@
-import { camelCaseProperty } from '@pandacss/shared'
+import { camelCaseProperty } from '@mfauzanap_pandacss/shared'
 import type { AtRule, Container } from 'postcss'
 import { unitlessProperties } from '../unitless'
 

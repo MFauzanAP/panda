@@ -1,4 +1,4 @@
-import type { RawCondition } from '@pandacss/types'
+import type { RawCondition } from '@mfauzanap_pandacss/types'
 import { AtRule } from 'postcss'
 import { safeParse } from './safe-parse'
 

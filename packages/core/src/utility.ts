@@ -1,6 +1,6 @@
-import { compact, hypenateProperty, isFunction, isString, memo, withoutSpace } from '@pandacss/shared'
-import type { TokenDictionary } from '@pandacss/token-dictionary'
-import type { AnyFunction, Dict, PropertyConfig, PropertyTransform, UtilityConfig } from '@pandacss/types'
+import { compact, hypenateProperty, isFunction, isString, memo, withoutSpace } from '@mfauzanap_pandacss/shared'
+import type { TokenDictionary } from '@mfauzanap_pandacss/token-dictionary'
+import type { AnyFunction, Dict, PropertyConfig, PropertyTransform, UtilityConfig } from '@mfauzanap_pandacss/types'
 import type { TransformResult } from './types'
 
 export type UtilityOptions = {

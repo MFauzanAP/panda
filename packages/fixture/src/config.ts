@@ -1,6 +1,6 @@
-import presetBase from '@pandacss/preset-base'
-import presetPanda from '@pandacss/preset-panda'
-import type { Config } from '@pandacss/types'
+import presetBase from '@mfauzanap_pandacss/preset-base'
+import presetPanda from '@mfauzanap_pandacss/preset-panda'
+import type { Config } from '@mfauzanap_pandacss/types'
 
 import { recipes } from './recipes'
 import { semanticTokens } from './semantic-tokens'

@@ -1,8 +1,8 @@
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   preflight: false,
-  presets: ['@pandacss/dev/presets'],
+  presets: ['@mfauzanap_pandacss/dev/presets'],
   include: ['./ts-import-map.js'],
   exclude: [],
   hash: false,

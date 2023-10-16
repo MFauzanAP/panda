@@ -1,5 +1,5 @@
-import { capitalize, dashCase, mapObject, memo, createRegex, uncapitalize } from '@pandacss/shared'
-import type { Dict, UserConfig } from '@pandacss/types'
+import { capitalize, dashCase, mapObject, memo, createRegex, uncapitalize } from '@mfauzanap_pandacss/shared'
+import type { Dict, UserConfig } from '@mfauzanap_pandacss/types'
 
 const helpers = { map: mapObject }
 

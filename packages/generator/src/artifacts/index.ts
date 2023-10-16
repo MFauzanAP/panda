@@ -1,5 +1,5 @@
-import { isObject } from '@pandacss/shared'
-import type { Artifact } from '@pandacss/types'
+import { isObject } from '@mfauzanap_pandacss/shared'
+import type { Artifact } from '@mfauzanap_pandacss/types'
 import outdent from 'outdent'
 import type { Context } from '../engines'
 import { generateGlobalCss } from './css/global-css'

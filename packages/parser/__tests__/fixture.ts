@@ -7,10 +7,10 @@ import {
   semanticTokens,
   tokens,
   utilities,
-} from '@pandacss/fixture'
-import { createGenerator } from '@pandacss/generator'
-import type { Config, LoadConfigResult, PandaHooks, TSConfig } from '@pandacss/types'
-import { mergeConfigs } from '@pandacss/config'
+} from '@mfauzanap_pandacss/fixture'
+import { createGenerator } from '@mfauzanap_pandacss/generator'
+import type { Config, LoadConfigResult, PandaHooks, TSConfig } from '@mfauzanap_pandacss/types'
+import { mergeConfigs } from '@mfauzanap_pandacss/config'
 import { createProject } from '../src'
 import { getImportDeclarations } from '../src/import'
 import { createHooks } from 'hookable'

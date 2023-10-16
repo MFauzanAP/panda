@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/error",
+  "name": "@mfauzanap_pandacss/error",
   "version": "0.15.5",
   "description": "Common error messages for css panda",
   "main": "dist/index.js",

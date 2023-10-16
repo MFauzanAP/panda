@@ -1,6 +1,6 @@
-import { messages } from '@pandacss/generator'
-import { logger, quote } from '@pandacss/logger'
-import type { Config } from '@pandacss/types'
+import { messages } from '@mfauzanap_pandacss/generator'
+import { logger, quote } from '@mfauzanap_pandacss/logger'
+import type { Config } from '@mfauzanap_pandacss/types'
 import { writeFile } from 'fs-extra'
 import { lookItUpSync } from 'look-it-up'
 import { outdent } from 'outdent'
@@ -30,7 +30,7 @@ export async function setupConfig(cwd: string, opts: SetupOptions = {}) {
     logger.warn('init:config', messages.configExists(cmd))
   } else {
     const content = outdent`
-import { defineConfig } from "@pandacss/dev"
+import { defineConfig } from "@mfauzanap_pandacss/dev"
 
 export default defineConfig({
     // Whether to use css reset
@@ -65,7 +65,7 @@ export async function setupPostcss(cwd: string) {
   const content = outdent`
 module.exports = {
   plugins: {
-    '@pandacss/dev/postcss': {},
+    '@mfauzanap_pandacss/dev/postcss': {},
   },
 }
   `

@@ -1,4 +1,4 @@
-import type { ConfigResultWithHooks, OutdirImportMap, TSConfig } from '@pandacss/types'
+import type { ConfigResultWithHooks, OutdirImportMap, TSConfig } from '@mfauzanap_pandacss/types'
 import { generateArtifacts } from './artifacts'
 import { generateFlattenedCss } from './artifacts/css/flat-css'
 import { generateParserCss } from './artifacts/css/parser-css'

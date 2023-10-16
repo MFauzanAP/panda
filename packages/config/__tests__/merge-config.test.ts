@@ -1,7 +1,7 @@
 import { describe, expect, test } from 'vitest'
 import { mergeConfigs } from '../src/merge-config'
 import { getResolvedConfig } from '../src/get-resolved-config'
-import type { Config } from '@pandacss/types'
+import type { Config } from '@mfauzanap_pandacss/types'
 
 const defineConfig = <T extends Config>(config: T) => config
 

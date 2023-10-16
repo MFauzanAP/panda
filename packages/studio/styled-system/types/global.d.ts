@@ -1,13 +1,13 @@
 /* eslint-disable */
 // @ts-nocheck
-import type * as Panda from '@pandacss/dev'
+import type * as Panda from '@mfauzanap_pandacss/dev'
 import type { RecipeVariantRecord, RecipeConfig, SlotRecipeVariantRecord, SlotRecipeConfig } from './recipe';
 import type { Parts } from './parts';
 import type { PatternConfig, PatternProperties } from './pattern';
 import type { GlobalStyleObject, SystemStyleObject } from './system-types';
 import type { CompositionStyles } from './composition';
 
-declare module '@pandacss/dev' {
+declare module '@mfauzanap_pandacss/dev' {
   export function defineRecipe<V extends RecipeVariantRecord>(config: RecipeConfig<V>): Panda.RecipeConfig
   export function defineSlotRecipe<S extends string, V extends SlotRecipeVariantRecord<S>>(config: SlotRecipeConfig<S, V>): Panda.SlotRecipeConfig
   export function defineStyles(definition: SystemStyleObject): SystemStyleObject

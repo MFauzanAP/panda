@@ -1,4 +1,4 @@
-import type { Config } from '@pandacss/types'
+import type { Config } from '@mfauzanap_pandacss/types'
 import { bundle } from './bundle'
 import { mergeConfigs } from './merge-config'
 

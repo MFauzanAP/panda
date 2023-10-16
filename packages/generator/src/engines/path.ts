@@ -1,4 +1,4 @@
-import type { UserConfig } from '@pandacss/types'
+import type { UserConfig } from '@mfauzanap_pandacss/types'
 
 export const getPathEngine = ({ cwd, emitPackage, outdir }: UserConfig) => {
   const get = (file?: string) =>

@@ -299,7 +299,7 @@ interface PresetOptions {
    */
   presets?: (string | Preset | Promise<Preset>)[]
   /**
-   * Whether to opt-out of the defaults config presets: [`@pandacss/preset-base`, `@pandacss/preset-panda`]
+   * Whether to opt-out of the defaults config presets: [`@mfauzanap_pandacss/preset-base`, `@mfauzanap_pandacss/preset-panda`]
    * @default 'false'
    */
   eject?: boolean

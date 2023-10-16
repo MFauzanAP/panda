@@ -1,4 +1,4 @@
-import type { Config } from '@pandacss/types'
+import type { Config } from '@mfauzanap_pandacss/types'
 import { loadConfigAndCreateContext } from './config'
 import type { PandaContext } from './create-context'
 

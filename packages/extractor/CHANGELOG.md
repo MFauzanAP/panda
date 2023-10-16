@@ -1,4 +1,4 @@
-# @pandacss/extractor
+# @mfauzanap_pandacss/extractor
 
 ## 0.15.5
 
@@ -256,7 +256,7 @@
 
 - 7bc69e4b: Fix issue where extraction does not work when the spread syntax is used or prop contains string that ends
   with ':'
-  - @pandacss/logger@0.7.0
+  - @mfauzanap_pandacss/logger@0.7.0
 
 ## 0.6.0
 
@@ -272,7 +272,7 @@
   )
   ```
 
-  - @pandacss/logger@0.6.0
+  - @mfauzanap_pandacss/logger@0.6.0
 
 ## 0.5.1
 
@@ -402,7 +402,7 @@
   ```
 
 - Updated dependencies [f9247e52]
-  - @pandacss/logger@0.5.1
+  - @mfauzanap_pandacss/logger@0.5.1
 
 ## 0.5.0
 
@@ -436,19 +436,19 @@
 
 ### Patch Changes
 
-- @pandacss/logger@0.5.0
+- @mfauzanap_pandacss/logger@0.5.0
 
 ## 0.4.0
 
 ### Patch Changes
 
-- @pandacss/logger@0.4.0
+- @mfauzanap_pandacss/logger@0.4.0
 
 ## 0.3.2
 
 ### Patch Changes
 
-- @pandacss/logger@0.3.2
+- @mfauzanap_pandacss/logger@0.3.2
 
 ## 0.3.1
 
@@ -456,13 +456,13 @@
 
 - efd79d83: Baseline release for the launch
 - Updated dependencies [efd79d83]
-  - @pandacss/logger@0.3.1
+  - @mfauzanap_pandacss/logger@0.3.1
 
 ## 0.3.0
 
 ### Patch Changes
 
-- @pandacss/logger@0.3.0
+- @mfauzanap_pandacss/logger@0.3.0
 
 ## 0.0.2
 
@@ -477,4 +477,4 @@
   - Add `jsxElement` option to patterns, to allow specifying the jsx element rendered by the patterns.
 
 - Updated dependencies [fb40fff2]
-  - @pandacss/logger@0.0.2
+  - @mfauzanap_pandacss/logger@0.0.2

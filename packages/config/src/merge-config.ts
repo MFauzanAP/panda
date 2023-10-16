@@ -1,4 +1,4 @@
-import type { Config } from '@pandacss/types'
+import type { Config } from '@mfauzanap_pandacss/types'
 import { mergeAndConcat } from 'merge-anything'
 import { assign, mergeWith } from './utils'
 

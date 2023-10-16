@@ -1,4 +1,4 @@
-# @pandacss/shared
+# @mfauzanap_pandacss/shared
 
 ## 0.15.5
 

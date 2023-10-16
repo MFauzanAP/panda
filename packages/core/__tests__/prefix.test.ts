@@ -1,4 +1,4 @@
-import { createCss } from '@pandacss/shared'
+import { createCss } from '@mfauzanap_pandacss/shared'
 import { describe, expect, test } from 'vitest'
 import { AtomicRule, type ProcessOptions } from '../src/atomic-rule'
 import { createContext } from './fixture'

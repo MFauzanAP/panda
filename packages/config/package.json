@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/config",
+  "name": "@mfauzanap_pandacss/config",
   "version": "0.15.5",
   "description": "Find and load panda config",
   "main": "dist/index.js",
@@ -37,11 +37,11 @@
     "dist"
   ],
   "dependencies": {
-    "@pandacss/error": "workspace:*",
-    "@pandacss/logger": "workspace:*",
-    "@pandacss/preset-base": "workspace:*",
-    "@pandacss/preset-panda": "workspace:*",
-    "@pandacss/types": "workspace:*",
+    "@mfauzanap_pandacss/error": "workspace:*",
+    "@mfauzanap_pandacss/logger": "workspace:*",
+    "@mfauzanap_pandacss/preset-base": "workspace:*",
+    "@mfauzanap_pandacss/preset-panda": "workspace:*",
+    "@mfauzanap_pandacss/types": "workspace:*",
     "bundle-n-require": "^1.0.1",
     "escalade": "3.1.1",
     "jiti": "^1.19.1",

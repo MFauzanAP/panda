@@ -6,8 +6,8 @@ import {
   toHash,
   walkObject,
   withoutImportant,
-} from '@pandacss/shared'
-import type { Dict } from '@pandacss/types'
+} from '@mfauzanap_pandacss/shared'
+import type { Dict } from '@mfauzanap_pandacss/types'
 import type { Root } from 'postcss'
 import postcss from 'postcss'
 import { toCss } from './to-css'

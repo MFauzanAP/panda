@@ -10,7 +10,7 @@ import mergeCascadeLayers from './plugins/merge-layers'
 import prettify from './plugins/prettify'
 import sortCss from './plugins/sort-css'
 import sortMediaQueries from './plugins/sort-mq'
-import type { Token } from '@pandacss/types'
+import type { Token } from '@mfauzanap_pandacss/types'
 
 type OptimizeOptions = {
   minify?: boolean

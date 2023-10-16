@@ -1,5 +1,5 @@
-import { esc } from '@pandacss/shared'
-import type { Token } from '@pandacss/types'
+import { esc } from '@mfauzanap_pandacss/shared'
+import type { Token } from '@mfauzanap_pandacss/types'
 import type { TransformCallback } from 'postcss'
 
 const tokenRegex = /token\(([^)]+)\)/g

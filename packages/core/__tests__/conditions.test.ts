@@ -1,4 +1,4 @@
-import { breakpoints, conditions } from '@pandacss/fixture'
+import { breakpoints, conditions } from '@mfauzanap_pandacss/fixture'
 import { describe, expect, test } from 'vitest'
 import { Conditions } from '../src/conditions'
 

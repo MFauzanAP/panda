@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/postcss",
+  "name": "@mfauzanap_pandacss/postcss",
   "version": "0.15.5",
   "description": "PostCSS integration for Panda CSS",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
     "dist"
   ],
   "dependencies": {
-    "@pandacss/node": "workspace:*",
+    "@mfauzanap_pandacss/node": "workspace:*",
     "postcss": "^8.4.27"
   }
 }

@@ -1,7 +1,7 @@
-import type { ParserResultType, ReportInstanceItem, ReportItem } from '@pandacss/types'
-import { box } from '@pandacss/extractor'
+import type { ParserResultType, ReportInstanceItem, ReportItem } from '@mfauzanap_pandacss/types'
+import { box } from '@mfauzanap_pandacss/extractor'
 import type { PandaContext } from './create-context'
-import type { ResultItem } from '@pandacss/types'
+import type { ResultItem } from '@mfauzanap_pandacss/types'
 
 type BoxNodeMap = ReportInstanceItem['box']
 

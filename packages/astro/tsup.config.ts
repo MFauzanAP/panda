@@ -5,5 +5,5 @@ export default defineConfig({
   format: ['esm'],
   splitting: false,
   clean: true,
-  external: ['@pandacss/dev/postcss'],
+  external: ['@mfauzanap_pandacss/dev/postcss'],
 })

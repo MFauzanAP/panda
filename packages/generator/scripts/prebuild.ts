@@ -12,7 +12,7 @@ function getEntrypoint(pkg: string, file: string) {
 
 const fileMap = [
   [
-    '@pandacss/types',
+    '@mfauzanap_pandacss/types',
     [
       ['csstype.d.ts'],
       ['system-types.d.ts'],
@@ -23,8 +23,8 @@ const fileMap = [
       ['composition.d.ts'],
     ],
   ],
-  ['@pandacss/is-valid-prop', [['index.mjs', 'is-valid-prop.mjs']]],
-  ['@pandacss/shared', [['shared.mjs', 'helpers.mjs'], ['astish.mjs'], ['normalize-html.mjs']]],
+  ['@mfauzanap_pandacss/is-valid-prop', [['index.mjs', 'is-valid-prop.mjs']]],
+  ['@mfauzanap_pandacss/shared', [['shared.mjs', 'helpers.mjs'], ['astish.mjs'], ['normalize-html.mjs']]],
 ] as const
 
 async function main() {

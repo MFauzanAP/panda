@@ -1,6 +1,6 @@
-import { flatten } from '@pandacss/shared'
-import { TokenDictionary } from '@pandacss/token-dictionary'
-import type { TokenDataTypes } from '@pandacss/types'
+import { flatten } from '@mfauzanap_pandacss/shared'
+import { TokenDictionary } from '@mfauzanap_pandacss/token-dictionary'
+import type { TokenDataTypes } from '@mfauzanap_pandacss/types'
 import { config } from 'virtual:panda'
 
 const { theme } = config

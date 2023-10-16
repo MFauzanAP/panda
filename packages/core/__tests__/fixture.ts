@@ -1,5 +1,5 @@
-import * as mocks from '@pandacss/fixture'
-import { TokenDictionary } from '@pandacss/token-dictionary'
+import * as mocks from '@mfauzanap_pandacss/fixture'
+import { TokenDictionary } from '@mfauzanap_pandacss/token-dictionary'
 import postcss from 'postcss'
 import { Conditions, Utility, Recipes } from '../src'
 import type { StylesheetContext } from '../src/types'

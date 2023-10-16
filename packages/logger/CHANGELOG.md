@@ -1,4 +1,4 @@
-# @pandacss/logger
+# @mfauzanap_pandacss/logger
 
 ## 0.15.5
 

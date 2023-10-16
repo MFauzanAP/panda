@@ -1,4 +1,4 @@
-import type { UtilityConfig } from '@pandacss/types'
+import type { UtilityConfig } from '@mfauzanap_pandacss/types'
 
 const positiveFractions = {
   '1/2': '50%',

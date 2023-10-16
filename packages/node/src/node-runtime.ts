@@ -1,5 +1,5 @@
-import { logger } from '@pandacss/logger'
-import type { Runtime } from '@pandacss/types'
+import { logger } from '@mfauzanap_pandacss/logger'
+import type { Runtime } from '@mfauzanap_pandacss/types'
 import chokidar from 'chokidar'
 import glob from 'fast-glob'
 import {

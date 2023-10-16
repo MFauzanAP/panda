@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/extractor",
+  "name": "@mfauzanap_pandacss/extractor",
   "version": "0.15.5",
   "description": "The css extractor for css panda",
   "main": "dist/index.js",

@@ -1,4 +1,4 @@
-import type { UtilityConfig } from '@pandacss/types'
+import type { UtilityConfig } from '@mfauzanap_pandacss/types'
 import { background } from './background'
 import { border } from './border'
 import { display } from './display'

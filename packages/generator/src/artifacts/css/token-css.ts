@@ -1,4 +1,4 @@
-import { expandNestedCss, extractParentSelectors, prettifyCss, toCss } from '@pandacss/core'
+import { expandNestedCss, extractParentSelectors, prettifyCss, toCss } from '@mfauzanap_pandacss/core'
 import postcss, { AtRule, Rule } from 'postcss'
 import type { Context } from '../../engines'
 

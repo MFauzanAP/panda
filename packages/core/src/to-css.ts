@@ -1,4 +1,4 @@
-import type { Dict } from '@pandacss/types'
+import type { Dict } from '@mfauzanap_pandacss/types'
 import postcss from 'postcss'
 import postcssNested from 'postcss-nested'
 import { postCssJs } from './post-css-js'

@@ -1,4 +1,4 @@
-# @pandacss/generator
+# @mfauzanap_pandacss/generator
 
 ## 0.15.5
 
@@ -10,12 +10,12 @@
   to the underlying element.
   - **Vue**: Fix regression in generated types
   - **Preact**: Fix regression in generated types
-  - @pandacss/core@0.15.5
-  - @pandacss/is-valid-prop@0.15.5
-  - @pandacss/logger@0.15.5
-  - @pandacss/shared@0.15.5
-  - @pandacss/token-dictionary@0.15.5
-  - @pandacss/types@0.15.5
+  - @mfauzanap_pandacss/core@0.15.5
+  - @mfauzanap_pandacss/is-valid-prop@0.15.5
+  - @mfauzanap_pandacss/logger@0.15.5
+  - @mfauzanap_pandacss/shared@0.15.5
+  - @mfauzanap_pandacss/token-dictionary@0.15.5
+  - @mfauzanap_pandacss/types@0.15.5
 
 ## 0.15.4
 
@@ -86,12 +86,12 @@
   )
   ```
 
-  - @pandacss/types@0.15.4
-  - @pandacss/core@0.15.4
-  - @pandacss/is-valid-prop@0.15.4
-  - @pandacss/logger@0.15.4
-  - @pandacss/shared@0.15.4
-  - @pandacss/token-dictionary@0.15.4
+  - @mfauzanap_pandacss/types@0.15.4
+  - @mfauzanap_pandacss/core@0.15.4
+  - @mfauzanap_pandacss/is-valid-prop@0.15.4
+  - @mfauzanap_pandacss/logger@0.15.4
+  - @mfauzanap_pandacss/shared@0.15.4
+  - @mfauzanap_pandacss/token-dictionary@0.15.4
 
 ## 0.15.3
 
@@ -185,12 +185,12 @@
 - Updated dependencies [95b06bb1]
 - Updated dependencies [1ac2011b]
 - Updated dependencies [58743bc4]
-  - @pandacss/shared@0.15.3
-  - @pandacss/core@0.15.3
-  - @pandacss/types@0.15.3
-  - @pandacss/token-dictionary@0.15.3
-  - @pandacss/is-valid-prop@0.15.3
-  - @pandacss/logger@0.15.3
+  - @mfauzanap_pandacss/shared@0.15.3
+  - @mfauzanap_pandacss/core@0.15.3
+  - @mfauzanap_pandacss/types@0.15.3
+  - @mfauzanap_pandacss/token-dictionary@0.15.3
+  - @mfauzanap_pandacss/is-valid-prop@0.15.3
+  - @mfauzanap_pandacss/logger@0.15.3
 
 ## 0.15.2
 
@@ -224,12 +224,12 @@
 - 26a788c0: - Switch to interface for runtime types
   - Create custom partial types for each config object property
 - Updated dependencies [26a788c0]
-  - @pandacss/types@0.15.2
-  - @pandacss/core@0.15.2
-  - @pandacss/token-dictionary@0.15.2
-  - @pandacss/is-valid-prop@0.15.2
-  - @pandacss/logger@0.15.2
-  - @pandacss/shared@0.15.2
+  - @mfauzanap_pandacss/types@0.15.2
+  - @mfauzanap_pandacss/core@0.15.2
+  - @mfauzanap_pandacss/token-dictionary@0.15.2
+  - @mfauzanap_pandacss/is-valid-prop@0.15.2
+  - @mfauzanap_pandacss/logger@0.15.2
+  - @mfauzanap_pandacss/shared@0.15.2
 
 ## 0.15.1
 
@@ -241,12 +241,12 @@
 - Updated dependencies [848936e0]
 - Updated dependencies [26f6982c]
 - Updated dependencies [4e003bfb]
-  - @pandacss/core@0.15.1
-  - @pandacss/shared@0.15.1
-  - @pandacss/token-dictionary@0.15.1
-  - @pandacss/types@0.15.1
-  - @pandacss/is-valid-prop@0.15.1
-  - @pandacss/logger@0.15.1
+  - @mfauzanap_pandacss/core@0.15.1
+  - @mfauzanap_pandacss/shared@0.15.1
+  - @mfauzanap_pandacss/token-dictionary@0.15.1
+  - @mfauzanap_pandacss/types@0.15.1
+  - @mfauzanap_pandacss/is-valid-prop@0.15.1
+  - @mfauzanap_pandacss/logger@0.15.1
 
 ## 0.15.0
 
@@ -268,12 +268,12 @@
 - Updated dependencies [39298609]
 - Updated dependencies [dd47b6e6]
 - Updated dependencies [f27146d6]
-  - @pandacss/types@0.15.0
-  - @pandacss/shared@0.15.0
-  - @pandacss/core@0.15.0
-  - @pandacss/token-dictionary@0.15.0
-  - @pandacss/is-valid-prop@0.15.0
-  - @pandacss/logger@0.15.0
+  - @mfauzanap_pandacss/types@0.15.0
+  - @mfauzanap_pandacss/shared@0.15.0
+  - @mfauzanap_pandacss/core@0.15.0
+  - @mfauzanap_pandacss/token-dictionary@0.15.0
+  - @mfauzanap_pandacss/is-valid-prop@0.15.0
+  - @mfauzanap_pandacss/logger@0.15.0
 
 ## 0.14.0
 
@@ -302,12 +302,12 @@
 - Updated dependencies [6f7ee198]
 - Updated dependencies [623e321f]
 - Updated dependencies [02161d41]
-  - @pandacss/token-dictionary@0.14.0
-  - @pandacss/types@0.14.0
-  - @pandacss/core@0.14.0
-  - @pandacss/is-valid-prop@0.14.0
-  - @pandacss/logger@0.14.0
-  - @pandacss/shared@0.14.0
+  - @mfauzanap_pandacss/token-dictionary@0.14.0
+  - @mfauzanap_pandacss/types@0.14.0
+  - @mfauzanap_pandacss/core@0.14.0
+  - @mfauzanap_pandacss/is-valid-prop@0.14.0
+  - @mfauzanap_pandacss/logger@0.14.0
+  - @mfauzanap_pandacss/shared@0.14.0
 
 ## 0.13.1
 
@@ -321,12 +321,12 @@
   > `.d.mts`.
 
 - 192d5e49: Fix issue where `cva` is undefined in preact styled factory
-  - @pandacss/core@0.13.1
-  - @pandacss/is-valid-prop@0.13.1
-  - @pandacss/logger@0.13.1
-  - @pandacss/shared@0.13.1
-  - @pandacss/token-dictionary@0.13.1
-  - @pandacss/types@0.13.1
+  - @mfauzanap_pandacss/core@0.13.1
+  - @mfauzanap_pandacss/is-valid-prop@0.13.1
+  - @mfauzanap_pandacss/logger@0.13.1
+  - @mfauzanap_pandacss/shared@0.13.1
+  - @mfauzanap_pandacss/token-dictionary@0.13.1
+  - @mfauzanap_pandacss/types@0.13.1
 
 ## 0.13.0
 
@@ -336,12 +336,12 @@
   type.
 - 32ceac3f: Fix an issue with custom JSX components not finding their matching patterns
 - Updated dependencies [04b5fd6c]
-  - @pandacss/core@0.13.0
-  - @pandacss/is-valid-prop@0.13.0
-  - @pandacss/logger@0.13.0
-  - @pandacss/shared@0.13.0
-  - @pandacss/token-dictionary@0.13.0
-  - @pandacss/types@0.13.0
+  - @mfauzanap_pandacss/core@0.13.0
+  - @mfauzanap_pandacss/is-valid-prop@0.13.0
+  - @mfauzanap_pandacss/logger@0.13.0
+  - @mfauzanap_pandacss/shared@0.13.0
+  - @mfauzanap_pandacss/token-dictionary@0.13.0
+  - @mfauzanap_pandacss/types@0.13.0
 
 ## 0.12.2
 
@@ -460,24 +460,24 @@
 
 - 36fdff89: Fix bug in generated js code for atomic slot recipe produce where `splitVariantProps` didn't work without
   the first slot key.
-  - @pandacss/core@0.12.2
-  - @pandacss/is-valid-prop@0.12.2
-  - @pandacss/logger@0.12.2
-  - @pandacss/shared@0.12.2
-  - @pandacss/token-dictionary@0.12.2
-  - @pandacss/types@0.12.2
+  - @mfauzanap_pandacss/core@0.12.2
+  - @mfauzanap_pandacss/is-valid-prop@0.12.2
+  - @mfauzanap_pandacss/logger@0.12.2
+  - @mfauzanap_pandacss/shared@0.12.2
+  - @mfauzanap_pandacss/token-dictionary@0.12.2
+  - @mfauzanap_pandacss/types@0.12.2
 
 ## 0.12.1
 
 ### Patch Changes
 
 - 599fbc1a: Fix issue where `AnimationName` type was generated wrongly if keyframes were not resolved
-  - @pandacss/core@0.12.1
-  - @pandacss/is-valid-prop@0.12.1
-  - @pandacss/logger@0.12.1
-  - @pandacss/shared@0.12.1
-  - @pandacss/token-dictionary@0.12.1
-  - @pandacss/types@0.12.1
+  - @mfauzanap_pandacss/core@0.12.1
+  - @mfauzanap_pandacss/is-valid-prop@0.12.1
+  - @mfauzanap_pandacss/logger@0.12.1
+  - @mfauzanap_pandacss/shared@0.12.1
+  - @mfauzanap_pandacss/token-dictionary@0.12.1
+  - @mfauzanap_pandacss/types@0.12.1
 
 ## 0.12.0
 
@@ -486,12 +486,12 @@
 - a41515de: Fix issue where styled factory does not respect union prop types like `type Props = AProps | BProps`
 - bf2ff391: Add `animationName` utility
 - ad1518b8: fix failed styled component for solid-js when using recipe
-  - @pandacss/core@0.12.0
-  - @pandacss/token-dictionary@0.12.0
-  - @pandacss/is-valid-prop@0.12.0
-  - @pandacss/logger@0.12.0
-  - @pandacss/shared@0.12.0
-  - @pandacss/types@0.12.0
+  - @mfauzanap_pandacss/core@0.12.0
+  - @mfauzanap_pandacss/token-dictionary@0.12.0
+  - @mfauzanap_pandacss/is-valid-prop@0.12.0
+  - @mfauzanap_pandacss/logger@0.12.0
+  - @mfauzanap_pandacss/shared@0.12.0
+  - @mfauzanap_pandacss/types@0.12.0
 
 ## 0.11.1
 
@@ -510,12 +510,12 @@
 - Updated dependencies [c07e1beb]
 - Updated dependencies [dfb3f85f]
 - Updated dependencies [23b516f4]
-  - @pandacss/shared@0.11.1
-  - @pandacss/is-valid-prop@0.11.1
-  - @pandacss/types@0.11.1
-  - @pandacss/core@0.11.1
-  - @pandacss/token-dictionary@0.11.1
-  - @pandacss/logger@0.11.1
+  - @mfauzanap_pandacss/shared@0.11.1
+  - @mfauzanap_pandacss/is-valid-prop@0.11.1
+  - @mfauzanap_pandacss/types@0.11.1
+  - @mfauzanap_pandacss/core@0.11.1
+  - @mfauzanap_pandacss/token-dictionary@0.11.1
+  - @mfauzanap_pandacss/logger@0.11.1
 
 ## 0.11.0
 
@@ -526,12 +526,12 @@
 - 39b80b49: Fix an issue with the runtime className generation when using an utility that maps to multiple shorthands
 - 1dc788bd: Fix issue where some style properties shows TS error when using `!important`
 - Updated dependencies [5b95caf5]
-  - @pandacss/types@0.11.0
-  - @pandacss/core@0.11.0
-  - @pandacss/token-dictionary@0.11.0
-  - @pandacss/is-valid-prop@0.11.0
-  - @pandacss/logger@0.11.0
-  - @pandacss/shared@0.11.0
+  - @mfauzanap_pandacss/types@0.11.0
+  - @mfauzanap_pandacss/core@0.11.0
+  - @mfauzanap_pandacss/token-dictionary@0.11.0
+  - @mfauzanap_pandacss/is-valid-prop@0.11.0
+  - @mfauzanap_pandacss/logger@0.11.0
+  - @mfauzanap_pandacss/shared@0.11.0
 
 ## 0.10.0
 
@@ -612,12 +612,12 @@
 - Updated dependencies [386e5098]
 - Updated dependencies [6d4eaa68]
 - Updated dependencies [a669f4d5]
-  - @pandacss/is-valid-prop@0.10.0
-  - @pandacss/shared@0.10.0
-  - @pandacss/types@0.10.0
-  - @pandacss/token-dictionary@0.10.0
-  - @pandacss/core@0.10.0
-  - @pandacss/logger@0.10.0
+  - @mfauzanap_pandacss/is-valid-prop@0.10.0
+  - @mfauzanap_pandacss/shared@0.10.0
+  - @mfauzanap_pandacss/types@0.10.0
+  - @mfauzanap_pandacss/token-dictionary@0.10.0
+  - @mfauzanap_pandacss/core@0.10.0
+  - @mfauzanap_pandacss/logger@0.10.0
 
 ## 0.9.0
 
@@ -660,7 +660,7 @@
   To track the `CustomCircle` component, you can now use the `jsx` property.
 
   ```js
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     patterns: {
@@ -676,12 +676,12 @@
 ### Patch Changes
 
 - Updated dependencies [c08de87f]
-  - @pandacss/types@0.9.0
-  - @pandacss/core@0.9.0
-  - @pandacss/token-dictionary@0.9.0
-  - @pandacss/is-valid-prop@0.9.0
-  - @pandacss/logger@0.9.0
-  - @pandacss/shared@0.9.0
+  - @mfauzanap_pandacss/types@0.9.0
+  - @mfauzanap_pandacss/core@0.9.0
+  - @mfauzanap_pandacss/token-dictionary@0.9.0
+  - @mfauzanap_pandacss/is-valid-prop@0.9.0
+  - @mfauzanap_pandacss/logger@0.9.0
+  - @mfauzanap_pandacss/shared@0.9.0
 
 ## 0.8.0
 
@@ -722,12 +722,12 @@
 - Updated dependencies [fb449016]
 - Updated dependencies [ac078416]
 - Updated dependencies [be0ad578]
-  - @pandacss/core@0.8.0
-  - @pandacss/token-dictionary@0.8.0
-  - @pandacss/types@0.8.0
-  - @pandacss/is-valid-prop@0.8.0
-  - @pandacss/logger@0.8.0
-  - @pandacss/shared@0.8.0
+  - @mfauzanap_pandacss/core@0.8.0
+  - @mfauzanap_pandacss/token-dictionary@0.8.0
+  - @mfauzanap_pandacss/types@0.8.0
+  - @mfauzanap_pandacss/is-valid-prop@0.8.0
+  - @mfauzanap_pandacss/logger@0.8.0
+  - @mfauzanap_pandacss/shared@0.8.0
 
 ## 0.7.0
 
@@ -736,12 +736,12 @@
 - a9c189b7: Fix issue where `splitVariantProps` in cva doesn't resolve the correct types
 - Updated dependencies [f59154fb]
 - Updated dependencies [a9c189b7]
-  - @pandacss/shared@0.7.0
-  - @pandacss/types@0.7.0
-  - @pandacss/core@0.7.0
-  - @pandacss/token-dictionary@0.7.0
-  - @pandacss/is-valid-prop@0.7.0
-  - @pandacss/logger@0.7.0
+  - @mfauzanap_pandacss/shared@0.7.0
+  - @mfauzanap_pandacss/types@0.7.0
+  - @mfauzanap_pandacss/core@0.7.0
+  - @mfauzanap_pandacss/token-dictionary@0.7.0
+  - @mfauzanap_pandacss/is-valid-prop@0.7.0
+  - @mfauzanap_pandacss/logger@0.7.0
 
 ## 0.6.0
 
@@ -819,12 +819,12 @@
 - Updated dependencies [5bd88c41]
 - Updated dependencies [ef1dd676]
 - Updated dependencies [b50675ca]
-  - @pandacss/core@0.6.0
-  - @pandacss/types@0.6.0
-  - @pandacss/token-dictionary@0.6.0
-  - @pandacss/is-valid-prop@0.6.0
-  - @pandacss/logger@0.6.0
-  - @pandacss/shared@0.6.0
+  - @mfauzanap_pandacss/core@0.6.0
+  - @mfauzanap_pandacss/types@0.6.0
+  - @mfauzanap_pandacss/token-dictionary@0.6.0
+  - @mfauzanap_pandacss/is-valid-prop@0.6.0
+  - @mfauzanap_pandacss/logger@0.6.0
+  - @mfauzanap_pandacss/shared@0.6.0
 
 ## 0.5.1
 
@@ -880,12 +880,12 @@
 - Updated dependencies [f9247e52]
 - Updated dependencies [1ed239cd]
 - Updated dependencies [78ed6ed4]
-  - @pandacss/types@0.5.1
-  - @pandacss/shared@0.5.1
-  - @pandacss/logger@0.5.1
-  - @pandacss/core@0.5.1
-  - @pandacss/token-dictionary@0.5.1
-  - @pandacss/is-valid-prop@0.5.1
+  - @mfauzanap_pandacss/types@0.5.1
+  - @mfauzanap_pandacss/shared@0.5.1
+  - @mfauzanap_pandacss/logger@0.5.1
+  - @mfauzanap_pandacss/core@0.5.1
+  - @mfauzanap_pandacss/token-dictionary@0.5.1
+  - @mfauzanap_pandacss/is-valid-prop@0.5.1
 
 ## 0.5.0
 
@@ -921,12 +921,12 @@
 
 - Updated dependencies [60df9bd1]
 - Updated dependencies [ead9eaa3]
-  - @pandacss/shared@0.5.0
-  - @pandacss/types@0.5.0
-  - @pandacss/core@0.5.0
-  - @pandacss/token-dictionary@0.5.0
-  - @pandacss/is-valid-prop@0.5.0
-  - @pandacss/logger@0.5.0
+  - @mfauzanap_pandacss/shared@0.5.0
+  - @mfauzanap_pandacss/types@0.5.0
+  - @mfauzanap_pandacss/core@0.5.0
+  - @mfauzanap_pandacss/token-dictionary@0.5.0
+  - @mfauzanap_pandacss/is-valid-prop@0.5.0
+  - @mfauzanap_pandacss/logger@0.5.0
 
 ## 0.4.0
 
@@ -935,7 +935,7 @@
 - 5b344b9c: Add support for disabling shorthand props
 
   ```ts
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     // ...
@@ -956,23 +956,23 @@
 - Updated dependencies [54a8913c]
 - Updated dependencies [c7b42325]
 - Updated dependencies [5b344b9c]
-  - @pandacss/core@0.4.0
-  - @pandacss/is-valid-prop@0.4.0
-  - @pandacss/types@0.4.0
-  - @pandacss/token-dictionary@0.4.0
-  - @pandacss/logger@0.4.0
-  - @pandacss/shared@0.4.0
+  - @mfauzanap_pandacss/core@0.4.0
+  - @mfauzanap_pandacss/is-valid-prop@0.4.0
+  - @mfauzanap_pandacss/types@0.4.0
+  - @mfauzanap_pandacss/token-dictionary@0.4.0
+  - @mfauzanap_pandacss/logger@0.4.0
+  - @mfauzanap_pandacss/shared@0.4.0
 
 ## 0.3.2
 
 ### Patch Changes
 
-- @pandacss/core@0.3.2
-- @pandacss/is-valid-prop@0.3.2
-- @pandacss/logger@0.3.2
-- @pandacss/shared@0.3.2
-- @pandacss/token-dictionary@0.3.2
-- @pandacss/types@0.3.2
+- @mfauzanap_pandacss/core@0.3.2
+- @mfauzanap_pandacss/is-valid-prop@0.3.2
+- @mfauzanap_pandacss/logger@0.3.2
+- @mfauzanap_pandacss/shared@0.3.2
+- @mfauzanap_pandacss/token-dictionary@0.3.2
+- @mfauzanap_pandacss/types@0.3.2
 
 ## 0.3.1
 
@@ -980,12 +980,12 @@
 
 - efd79d83: Baseline release for the launch
 - Updated dependencies [efd79d83]
-  - @pandacss/core@0.3.1
-  - @pandacss/is-valid-prop@0.3.1
-  - @pandacss/logger@0.3.1
-  - @pandacss/shared@0.3.1
-  - @pandacss/token-dictionary@0.3.1
-  - @pandacss/types@0.3.1
+  - @mfauzanap_pandacss/core@0.3.1
+  - @mfauzanap_pandacss/is-valid-prop@0.3.1
+  - @mfauzanap_pandacss/logger@0.3.1
+  - @mfauzanap_pandacss/shared@0.3.1
+  - @mfauzanap_pandacss/token-dictionary@0.3.1
+  - @mfauzanap_pandacss/types@0.3.1
 
 ## 0.3.0
 
@@ -997,12 +997,12 @@
 ### Patch Changes
 
 - Updated dependencies [6d81ee9e]
-  - @pandacss/types@0.3.0
-  - @pandacss/core@0.3.0
-  - @pandacss/token-dictionary@0.3.0
-  - @pandacss/is-valid-prop@0.3.0
-  - @pandacss/logger@0.3.0
-  - @pandacss/shared@0.3.0
+  - @mfauzanap_pandacss/types@0.3.0
+  - @mfauzanap_pandacss/core@0.3.0
+  - @mfauzanap_pandacss/token-dictionary@0.3.0
+  - @mfauzanap_pandacss/is-valid-prop@0.3.0
+  - @mfauzanap_pandacss/logger@0.3.0
+  - @mfauzanap_pandacss/shared@0.3.0
 
 ## 0.0.2
 
@@ -1018,9 +1018,9 @@
 
 - Updated dependencies [c308e8be]
 - Updated dependencies [fb40fff2]
-  - @pandacss/types@0.0.2
-  - @pandacss/core@0.0.2
-  - @pandacss/is-valid-prop@0.0.2
-  - @pandacss/logger@0.0.2
-  - @pandacss/shared@0.0.2
-  - @pandacss/token-dictionary@0.0.2
+  - @mfauzanap_pandacss/types@0.0.2
+  - @mfauzanap_pandacss/core@0.0.2
+  - @mfauzanap_pandacss/is-valid-prop@0.0.2
+  - @mfauzanap_pandacss/logger@0.0.2
+  - @mfauzanap_pandacss/shared@0.0.2
+  - @mfauzanap_pandacss/token-dictionary@0.0.2

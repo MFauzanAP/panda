@@ -1,5 +1,5 @@
-import { isSlotRecipe } from '@pandacss/core'
-import { unionType } from '@pandacss/shared'
+import { isSlotRecipe } from '@mfauzanap_pandacss/core'
+import { unionType } from '@mfauzanap_pandacss/shared'
 import { outdent } from 'outdent'
 import { match } from 'ts-pattern'
 import type { Context } from '../../engines'

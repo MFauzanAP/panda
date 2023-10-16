@@ -1,11 +1,11 @@
-import { logger } from '@pandacss/logger'
+import { logger } from '@mfauzanap_pandacss/logger'
 import { Obj, pipe, tap, tryCatch } from 'lil-fp'
 import { createBox } from './cli-box'
 import type { PandaContext } from './create-context'
 import { writeFile } from 'fs/promises'
-import { createParserResult } from '@pandacss/parser'
+import { createParserResult } from '@mfauzanap_pandacss/parser'
 import { match } from 'ts-pattern'
-import { optimizeCss } from '@pandacss/core'
+import { optimizeCss } from '@mfauzanap_pandacss/core'
 
 /**
  * Bundles all the included files CSS into outdir/styles.css

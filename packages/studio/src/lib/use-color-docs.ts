@@ -1,4 +1,4 @@
-import type { Token } from '@pandacss/types'
+import type { Token } from '@mfauzanap_pandacss/types'
 import { useState } from 'react'
 import context from './panda.context'
 

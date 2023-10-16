@@ -7,10 +7,10 @@ import {
   utilities,
   recipes,
   patterns,
-} from '@pandacss/fixture'
+} from '@mfauzanap_pandacss/fixture'
 import { createGenerator } from '../src'
 import { createHooks } from 'hookable'
-import type { ConfigResultWithHooks } from '@pandacss/types'
+import type { ConfigResultWithHooks } from '@mfauzanap_pandacss/types'
 
 export const generatorConfig = {
   dependencies: [],

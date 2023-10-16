@@ -1,4 +1,4 @@
-# @pandacss/is-valid-prop
+# @mfauzanap_pandacss/is-valid-prop
 
 ## 0.15.5
 

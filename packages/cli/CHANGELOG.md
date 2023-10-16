@@ -1,20 +1,20 @@
-# @pandacss/dev
+# @mfauzanap_pandacss/dev
 
 ## 0.15.5
 
 ### Patch Changes
 
 - Updated dependencies [909fcbe8]
-  - @pandacss/node@0.15.5
-  - @pandacss/postcss@0.15.5
-  - @pandacss/studio@0.15.5
-  - @pandacss/config@0.15.5
-  - @pandacss/error@0.15.5
-  - @pandacss/logger@0.15.5
-  - @pandacss/preset-panda@0.15.5
-  - @pandacss/shared@0.15.5
-  - @pandacss/token-dictionary@0.15.5
-  - @pandacss/types@0.15.5
+  - @mfauzanap_pandacss/node@0.15.5
+  - @mfauzanap_pandacss/postcss@0.15.5
+  - @mfauzanap_pandacss/studio@0.15.5
+  - @mfauzanap_pandacss/config@0.15.5
+  - @mfauzanap_pandacss/error@0.15.5
+  - @mfauzanap_pandacss/logger@0.15.5
+  - @mfauzanap_pandacss/preset-panda@0.15.5
+  - @mfauzanap_pandacss/shared@0.15.5
+  - @mfauzanap_pandacss/token-dictionary@0.15.5
+  - @mfauzanap_pandacss/types@0.15.5
 
 ## 0.15.4
 
@@ -22,16 +22,16 @@
 
 - Updated dependencies [abd7c47a]
 - Updated dependencies [69699ba4]
-  - @pandacss/config@0.15.4
-  - @pandacss/studio@0.15.4
-  - @pandacss/node@0.15.4
-  - @pandacss/types@0.15.4
-  - @pandacss/postcss@0.15.4
-  - @pandacss/error@0.15.4
-  - @pandacss/logger@0.15.4
-  - @pandacss/preset-panda@0.15.4
-  - @pandacss/shared@0.15.4
-  - @pandacss/token-dictionary@0.15.4
+  - @mfauzanap_pandacss/config@0.15.4
+  - @mfauzanap_pandacss/studio@0.15.4
+  - @mfauzanap_pandacss/node@0.15.4
+  - @mfauzanap_pandacss/types@0.15.4
+  - @mfauzanap_pandacss/postcss@0.15.4
+  - @mfauzanap_pandacss/error@0.15.4
+  - @mfauzanap_pandacss/logger@0.15.4
+  - @mfauzanap_pandacss/preset-panda@0.15.4
+  - @mfauzanap_pandacss/shared@0.15.4
+  - @mfauzanap_pandacss/token-dictionary@0.15.4
 
 ## 0.15.3
 
@@ -41,16 +41,16 @@
 - Updated dependencies [1ac2011b]
 - Updated dependencies [58743bc4]
 - Updated dependencies [1eb31118]
-  - @pandacss/shared@0.15.3
-  - @pandacss/types@0.15.3
-  - @pandacss/studio@0.15.3
-  - @pandacss/node@0.15.3
-  - @pandacss/token-dictionary@0.15.3
-  - @pandacss/config@0.15.3
-  - @pandacss/preset-panda@0.15.3
-  - @pandacss/postcss@0.15.3
-  - @pandacss/error@0.15.3
-  - @pandacss/logger@0.15.3
+  - @mfauzanap_pandacss/shared@0.15.3
+  - @mfauzanap_pandacss/types@0.15.3
+  - @mfauzanap_pandacss/studio@0.15.3
+  - @mfauzanap_pandacss/node@0.15.3
+  - @mfauzanap_pandacss/token-dictionary@0.15.3
+  - @mfauzanap_pandacss/config@0.15.3
+  - @mfauzanap_pandacss/preset-panda@0.15.3
+  - @mfauzanap_pandacss/postcss@0.15.3
+  - @mfauzanap_pandacss/error@0.15.3
+  - @mfauzanap_pandacss/logger@0.15.3
 
 ## 0.15.2
 
@@ -61,16 +61,16 @@
 - Updated dependencies [26a788c0]
 - Updated dependencies [f3c30d60]
 - Updated dependencies [2645c2da]
-  - @pandacss/node@0.15.2
-  - @pandacss/studio@0.15.2
-  - @pandacss/types@0.15.2
-  - @pandacss/config@0.15.2
-  - @pandacss/postcss@0.15.2
-  - @pandacss/preset-panda@0.15.2
-  - @pandacss/token-dictionary@0.15.2
-  - @pandacss/error@0.15.2
-  - @pandacss/logger@0.15.2
-  - @pandacss/shared@0.15.2
+  - @mfauzanap_pandacss/node@0.15.2
+  - @mfauzanap_pandacss/studio@0.15.2
+  - @mfauzanap_pandacss/types@0.15.2
+  - @mfauzanap_pandacss/config@0.15.2
+  - @mfauzanap_pandacss/postcss@0.15.2
+  - @mfauzanap_pandacss/preset-panda@0.15.2
+  - @mfauzanap_pandacss/token-dictionary@0.15.2
+  - @mfauzanap_pandacss/error@0.15.2
+  - @mfauzanap_pandacss/logger@0.15.2
+  - @mfauzanap_pandacss/shared@0.15.2
 
 ## 0.15.1
 
@@ -79,16 +79,16 @@
 - Updated dependencies [7e8bcb03]
 - Updated dependencies [26f6982c]
 - Updated dependencies [4e003bfb]
-  - @pandacss/studio@0.15.1
-  - @pandacss/shared@0.15.1
-  - @pandacss/token-dictionary@0.15.1
-  - @pandacss/node@0.15.1
-  - @pandacss/types@0.15.1
-  - @pandacss/postcss@0.15.1
-  - @pandacss/config@0.15.1
-  - @pandacss/error@0.15.1
-  - @pandacss/logger@0.15.1
-  - @pandacss/preset-panda@0.15.1
+  - @mfauzanap_pandacss/studio@0.15.1
+  - @mfauzanap_pandacss/shared@0.15.1
+  - @mfauzanap_pandacss/token-dictionary@0.15.1
+  - @mfauzanap_pandacss/node@0.15.1
+  - @mfauzanap_pandacss/types@0.15.1
+  - @mfauzanap_pandacss/postcss@0.15.1
+  - @mfauzanap_pandacss/config@0.15.1
+  - @mfauzanap_pandacss/error@0.15.1
+  - @mfauzanap_pandacss/logger@0.15.1
+  - @mfauzanap_pandacss/preset-panda@0.15.1
 
 ## 0.15.0
 
@@ -98,16 +98,16 @@
 - Updated dependencies [9f429d35]
 - Updated dependencies [39298609]
 - Updated dependencies [f27146d6]
-  - @pandacss/types@0.15.0
-  - @pandacss/shared@0.15.0
-  - @pandacss/studio@0.15.0
-  - @pandacss/node@0.15.0
-  - @pandacss/config@0.15.0
-  - @pandacss/preset-panda@0.15.0
-  - @pandacss/token-dictionary@0.15.0
-  - @pandacss/postcss@0.15.0
-  - @pandacss/error@0.15.0
-  - @pandacss/logger@0.15.0
+  - @mfauzanap_pandacss/types@0.15.0
+  - @mfauzanap_pandacss/shared@0.15.0
+  - @mfauzanap_pandacss/studio@0.15.0
+  - @mfauzanap_pandacss/node@0.15.0
+  - @mfauzanap_pandacss/config@0.15.0
+  - @mfauzanap_pandacss/preset-panda@0.15.0
+  - @mfauzanap_pandacss/token-dictionary@0.15.0
+  - @mfauzanap_pandacss/postcss@0.15.0
+  - @mfauzanap_pandacss/error@0.15.0
+  - @mfauzanap_pandacss/logger@0.15.0
 
 ## 0.14.0
 
@@ -122,16 +122,16 @@
 - Updated dependencies [e6459a59]
 - Updated dependencies [6f7ee198]
 - Updated dependencies [623e321f]
-  - @pandacss/token-dictionary@0.14.0
-  - @pandacss/studio@0.14.0
-  - @pandacss/types@0.14.0
-  - @pandacss/node@0.14.0
-  - @pandacss/config@0.14.0
-  - @pandacss/preset-panda@0.14.0
-  - @pandacss/postcss@0.14.0
-  - @pandacss/error@0.14.0
-  - @pandacss/logger@0.14.0
-  - @pandacss/shared@0.14.0
+  - @mfauzanap_pandacss/token-dictionary@0.14.0
+  - @mfauzanap_pandacss/studio@0.14.0
+  - @mfauzanap_pandacss/types@0.14.0
+  - @mfauzanap_pandacss/node@0.14.0
+  - @mfauzanap_pandacss/config@0.14.0
+  - @mfauzanap_pandacss/preset-panda@0.14.0
+  - @mfauzanap_pandacss/postcss@0.14.0
+  - @mfauzanap_pandacss/error@0.14.0
+  - @mfauzanap_pandacss/logger@0.14.0
+  - @mfauzanap_pandacss/shared@0.14.0
 
 ## 0.13.1
 
@@ -146,16 +146,16 @@
 
 - Updated dependencies [577dcb9d]
 - Updated dependencies [d0fbc7cc]
-  - @pandacss/studio@0.13.1
-  - @pandacss/error@0.13.1
-  - @pandacss/config@0.13.1
-  - @pandacss/node@0.13.1
-  - @pandacss/postcss@0.13.1
-  - @pandacss/logger@0.13.1
-  - @pandacss/preset-panda@0.13.1
-  - @pandacss/shared@0.13.1
-  - @pandacss/token-dictionary@0.13.1
-  - @pandacss/types@0.13.1
+  - @mfauzanap_pandacss/studio@0.13.1
+  - @mfauzanap_pandacss/error@0.13.1
+  - @mfauzanap_pandacss/config@0.13.1
+  - @mfauzanap_pandacss/node@0.13.1
+  - @mfauzanap_pandacss/postcss@0.13.1
+  - @mfauzanap_pandacss/logger@0.13.1
+  - @mfauzanap_pandacss/preset-panda@0.13.1
+  - @mfauzanap_pandacss/shared@0.13.1
+  - @mfauzanap_pandacss/token-dictionary@0.13.1
+  - @mfauzanap_pandacss/types@0.13.1
 
 ## 0.13.0
 
@@ -166,46 +166,46 @@
 
 ### Patch Changes
 
-- @pandacss/node@0.13.0
-- @pandacss/studio@0.13.0
-- @pandacss/postcss@0.13.0
-- @pandacss/config@0.13.0
-- @pandacss/error@0.13.0
-- @pandacss/logger@0.13.0
-- @pandacss/preset-panda@0.13.0
-- @pandacss/shared@0.13.0
-- @pandacss/token-dictionary@0.13.0
-- @pandacss/types@0.13.0
+- @mfauzanap_pandacss/node@0.13.0
+- @mfauzanap_pandacss/studio@0.13.0
+- @mfauzanap_pandacss/postcss@0.13.0
+- @mfauzanap_pandacss/config@0.13.0
+- @mfauzanap_pandacss/error@0.13.0
+- @mfauzanap_pandacss/logger@0.13.0
+- @mfauzanap_pandacss/preset-panda@0.13.0
+- @mfauzanap_pandacss/shared@0.13.0
+- @mfauzanap_pandacss/token-dictionary@0.13.0
+- @mfauzanap_pandacss/types@0.13.0
 
 ## 0.12.2
 
 ### Patch Changes
 
-- @pandacss/node@0.12.2
-- @pandacss/postcss@0.12.2
-- @pandacss/studio@0.12.2
-- @pandacss/config@0.12.2
-- @pandacss/error@0.12.2
-- @pandacss/logger@0.12.2
-- @pandacss/preset-panda@0.12.2
-- @pandacss/shared@0.12.2
-- @pandacss/token-dictionary@0.12.2
-- @pandacss/types@0.12.2
+- @mfauzanap_pandacss/node@0.12.2
+- @mfauzanap_pandacss/postcss@0.12.2
+- @mfauzanap_pandacss/studio@0.12.2
+- @mfauzanap_pandacss/config@0.12.2
+- @mfauzanap_pandacss/error@0.12.2
+- @mfauzanap_pandacss/logger@0.12.2
+- @mfauzanap_pandacss/preset-panda@0.12.2
+- @mfauzanap_pandacss/shared@0.12.2
+- @mfauzanap_pandacss/token-dictionary@0.12.2
+- @mfauzanap_pandacss/types@0.12.2
 
 ## 0.12.1
 
 ### Patch Changes
 
-- @pandacss/node@0.12.1
-- @pandacss/postcss@0.12.1
-- @pandacss/studio@0.12.1
-- @pandacss/config@0.12.1
-- @pandacss/error@0.12.1
-- @pandacss/logger@0.12.1
-- @pandacss/preset-panda@0.12.1
-- @pandacss/shared@0.12.1
-- @pandacss/token-dictionary@0.12.1
-- @pandacss/types@0.12.1
+- @mfauzanap_pandacss/node@0.12.1
+- @mfauzanap_pandacss/postcss@0.12.1
+- @mfauzanap_pandacss/studio@0.12.1
+- @mfauzanap_pandacss/config@0.12.1
+- @mfauzanap_pandacss/error@0.12.1
+- @mfauzanap_pandacss/logger@0.12.1
+- @mfauzanap_pandacss/preset-panda@0.12.1
+- @mfauzanap_pandacss/shared@0.12.1
+- @mfauzanap_pandacss/token-dictionary@0.12.1
+- @mfauzanap_pandacss/types@0.12.1
 
 ## 0.12.0
 
@@ -219,16 +219,16 @@
 - 4c8c1715: Export types for all `define` helper functions
 - Updated dependencies [4c8c1715]
 - Updated dependencies [bf2ff391]
-  - @pandacss/studio@0.12.0
-  - @pandacss/node@0.12.0
-  - @pandacss/config@0.12.0
-  - @pandacss/postcss@0.12.0
-  - @pandacss/token-dictionary@0.12.0
-  - @pandacss/error@0.12.0
-  - @pandacss/logger@0.12.0
-  - @pandacss/preset-panda@0.12.0
-  - @pandacss/shared@0.12.0
-  - @pandacss/types@0.12.0
+  - @mfauzanap_pandacss/studio@0.12.0
+  - @mfauzanap_pandacss/node@0.12.0
+  - @mfauzanap_pandacss/config@0.12.0
+  - @mfauzanap_pandacss/postcss@0.12.0
+  - @mfauzanap_pandacss/token-dictionary@0.12.0
+  - @mfauzanap_pandacss/error@0.12.0
+  - @mfauzanap_pandacss/logger@0.12.0
+  - @mfauzanap_pandacss/preset-panda@0.12.0
+  - @mfauzanap_pandacss/shared@0.12.0
+  - @mfauzanap_pandacss/types@0.12.0
 
 ## 0.11.1
 
@@ -236,36 +236,36 @@
 
 - Updated dependencies [c07e1beb]
 - Updated dependencies [23b516f4]
-  - @pandacss/shared@0.11.1
-  - @pandacss/studio@0.11.1
-  - @pandacss/types@0.11.1
-  - @pandacss/node@0.11.1
-  - @pandacss/token-dictionary@0.11.1
-  - @pandacss/config@0.11.1
-  - @pandacss/preset-panda@0.11.1
-  - @pandacss/postcss@0.11.1
-  - @pandacss/error@0.11.1
-  - @pandacss/logger@0.11.1
+  - @mfauzanap_pandacss/shared@0.11.1
+  - @mfauzanap_pandacss/studio@0.11.1
+  - @mfauzanap_pandacss/types@0.11.1
+  - @mfauzanap_pandacss/node@0.11.1
+  - @mfauzanap_pandacss/token-dictionary@0.11.1
+  - @mfauzanap_pandacss/config@0.11.1
+  - @mfauzanap_pandacss/preset-panda@0.11.1
+  - @mfauzanap_pandacss/postcss@0.11.1
+  - @mfauzanap_pandacss/error@0.11.1
+  - @mfauzanap_pandacss/logger@0.11.1
 
 ## 0.11.0
 
 ### Patch Changes
 
 - cde9702e: Add an optional `glob` argument that overrides the config.include on the `panda cssgen` CLI command.
-- 164fbf27: Remove astro plugin entrypoint in favor of installing `@pandacss/astro` package
+- 164fbf27: Remove astro plugin entrypoint in favor of installing `@mfauzanap_pandacss/astro` package
 - Updated dependencies [dead08a2]
 - Updated dependencies [cde9702e]
 - Updated dependencies [5b95caf5]
-  - @pandacss/config@0.11.0
-  - @pandacss/node@0.11.0
-  - @pandacss/types@0.11.0
-  - @pandacss/studio@0.11.0
-  - @pandacss/postcss@0.11.0
-  - @pandacss/preset-panda@0.11.0
-  - @pandacss/token-dictionary@0.11.0
-  - @pandacss/error@0.11.0
-  - @pandacss/logger@0.11.0
-  - @pandacss/shared@0.11.0
+  - @mfauzanap_pandacss/config@0.11.0
+  - @mfauzanap_pandacss/node@0.11.0
+  - @mfauzanap_pandacss/types@0.11.0
+  - @mfauzanap_pandacss/studio@0.11.0
+  - @mfauzanap_pandacss/postcss@0.11.0
+  - @mfauzanap_pandacss/preset-panda@0.11.0
+  - @mfauzanap_pandacss/token-dictionary@0.11.0
+  - @mfauzanap_pandacss/error@0.11.0
+  - @mfauzanap_pandacss/logger@0.11.0
+  - @mfauzanap_pandacss/shared@0.11.0
 
 ## 0.10.0
 
@@ -330,17 +330,17 @@
 - Updated dependencies [9d4aa918]
 - Updated dependencies [386e5098]
 - Updated dependencies [a669f4d5]
-  - @pandacss/shared@0.10.0
-  - @pandacss/studio@0.10.0
-  - @pandacss/types@0.10.0
-  - @pandacss/token-dictionary@0.10.0
-  - @pandacss/node@0.10.0
-  - @pandacss/config@0.10.0
-  - @pandacss/preset-panda@0.10.0
-  - @pandacss/postcss@0.10.0
-  - @pandacss/astro@0.10.0
-  - @pandacss/error@0.10.0
-  - @pandacss/logger@0.10.0
+  - @mfauzanap_pandacss/shared@0.10.0
+  - @mfauzanap_pandacss/studio@0.10.0
+  - @mfauzanap_pandacss/types@0.10.0
+  - @mfauzanap_pandacss/token-dictionary@0.10.0
+  - @mfauzanap_pandacss/node@0.10.0
+  - @mfauzanap_pandacss/config@0.10.0
+  - @mfauzanap_pandacss/preset-panda@0.10.0
+  - @mfauzanap_pandacss/postcss@0.10.0
+  - @mfauzanap_pandacss/astro@0.10.0
+  - @mfauzanap_pandacss/error@0.10.0
+  - @mfauzanap_pandacss/logger@0.10.0
 
 ## 0.9.0
 
@@ -348,17 +348,17 @@
 
 - Updated dependencies [c08de87f]
 - Updated dependencies [f10e706a]
-  - @pandacss/types@0.9.0
-  - @pandacss/postcss@0.9.0
-  - @pandacss/node@0.9.0
-  - @pandacss/config@0.9.0
-  - @pandacss/token-dictionary@0.9.0
-  - @pandacss/preset-panda@0.9.0
-  - @pandacss/studio@0.9.0
-  - @pandacss/astro@0.9.0
-  - @pandacss/error@0.9.0
-  - @pandacss/logger@0.9.0
-  - @pandacss/shared@0.9.0
+  - @mfauzanap_pandacss/types@0.9.0
+  - @mfauzanap_pandacss/postcss@0.9.0
+  - @mfauzanap_pandacss/node@0.9.0
+  - @mfauzanap_pandacss/config@0.9.0
+  - @mfauzanap_pandacss/token-dictionary@0.9.0
+  - @mfauzanap_pandacss/preset-panda@0.9.0
+  - @mfauzanap_pandacss/studio@0.9.0
+  - @mfauzanap_pandacss/astro@0.9.0
+  - @mfauzanap_pandacss/error@0.9.0
+  - @mfauzanap_pandacss/logger@0.9.0
+  - @mfauzanap_pandacss/shared@0.9.0
 
 ## 0.8.0
 
@@ -371,17 +371,17 @@
 - Updated dependencies [e1f6318a]
 - Updated dependencies [be0ad578]
 - Updated dependencies [78612d7f]
-  - @pandacss/node@0.8.0
-  - @pandacss/token-dictionary@0.8.0
-  - @pandacss/config@0.8.0
-  - @pandacss/studio@0.8.0
-  - @pandacss/types@0.8.0
-  - @pandacss/postcss@0.8.0
-  - @pandacss/preset-panda@0.8.0
-  - @pandacss/astro@0.8.0
-  - @pandacss/error@0.8.0
-  - @pandacss/logger@0.8.0
-  - @pandacss/shared@0.8.0
+  - @mfauzanap_pandacss/node@0.8.0
+  - @mfauzanap_pandacss/token-dictionary@0.8.0
+  - @mfauzanap_pandacss/config@0.8.0
+  - @mfauzanap_pandacss/studio@0.8.0
+  - @mfauzanap_pandacss/types@0.8.0
+  - @mfauzanap_pandacss/postcss@0.8.0
+  - @mfauzanap_pandacss/preset-panda@0.8.0
+  - @mfauzanap_pandacss/astro@0.8.0
+  - @mfauzanap_pandacss/error@0.8.0
+  - @mfauzanap_pandacss/logger@0.8.0
+  - @mfauzanap_pandacss/shared@0.8.0
 
 ## 0.7.0
 
@@ -393,17 +393,17 @@
 - Updated dependencies [a9c189b7]
 - Updated dependencies [4ff7ddea]
 - Updated dependencies [1a05c4bb]
-  - @pandacss/node@0.7.0
-  - @pandacss/shared@0.7.0
-  - @pandacss/types@0.7.0
-  - @pandacss/config@0.7.0
-  - @pandacss/postcss@0.7.0
-  - @pandacss/studio@0.7.0
-  - @pandacss/token-dictionary@0.7.0
-  - @pandacss/preset-panda@0.7.0
-  - @pandacss/astro@0.7.0
-  - @pandacss/error@0.7.0
-  - @pandacss/logger@0.7.0
+  - @mfauzanap_pandacss/node@0.7.0
+  - @mfauzanap_pandacss/shared@0.7.0
+  - @mfauzanap_pandacss/types@0.7.0
+  - @mfauzanap_pandacss/config@0.7.0
+  - @mfauzanap_pandacss/postcss@0.7.0
+  - @mfauzanap_pandacss/studio@0.7.0
+  - @mfauzanap_pandacss/token-dictionary@0.7.0
+  - @mfauzanap_pandacss/preset-panda@0.7.0
+  - @mfauzanap_pandacss/astro@0.7.0
+  - @mfauzanap_pandacss/error@0.7.0
+  - @mfauzanap_pandacss/logger@0.7.0
 
 ## 0.6.0
 
@@ -413,17 +413,17 @@
 - Updated dependencies [032c152a]
 - Updated dependencies [239fe41a]
 - Updated dependencies [76419e3e]
-  - @pandacss/node@0.6.0
-  - @pandacss/studio@0.6.0
-  - @pandacss/postcss@0.6.0
-  - @pandacss/config@0.6.0
-  - @pandacss/types@0.6.0
-  - @pandacss/astro@0.6.0
-  - @pandacss/token-dictionary@0.6.0
-  - @pandacss/error@0.6.0
-  - @pandacss/logger@0.6.0
-  - @pandacss/preset-panda@0.6.0
-  - @pandacss/shared@0.6.0
+  - @mfauzanap_pandacss/node@0.6.0
+  - @mfauzanap_pandacss/studio@0.6.0
+  - @mfauzanap_pandacss/postcss@0.6.0
+  - @mfauzanap_pandacss/config@0.6.0
+  - @mfauzanap_pandacss/types@0.6.0
+  - @mfauzanap_pandacss/astro@0.6.0
+  - @mfauzanap_pandacss/token-dictionary@0.6.0
+  - @mfauzanap_pandacss/error@0.6.0
+  - @mfauzanap_pandacss/logger@0.6.0
+  - @mfauzanap_pandacss/preset-panda@0.6.0
+  - @mfauzanap_pandacss/shared@0.6.0
 
 ## 0.5.1
 
@@ -451,17 +451,17 @@
 - Updated dependencies [78ed6ed4]
 - Updated dependencies [e48b130a]
 - Updated dependencies [1a2c0e2b]
-  - @pandacss/studio@0.5.1
-  - @pandacss/node@0.5.1
-  - @pandacss/types@0.5.1
-  - @pandacss/config@0.5.1
-  - @pandacss/shared@0.5.1
-  - @pandacss/logger@0.5.1
-  - @pandacss/postcss@0.5.1
-  - @pandacss/preset-panda@0.5.1
-  - @pandacss/token-dictionary@0.5.1
-  - @pandacss/astro@0.5.1
-  - @pandacss/error@0.5.1
+  - @mfauzanap_pandacss/studio@0.5.1
+  - @mfauzanap_pandacss/node@0.5.1
+  - @mfauzanap_pandacss/types@0.5.1
+  - @mfauzanap_pandacss/config@0.5.1
+  - @mfauzanap_pandacss/shared@0.5.1
+  - @mfauzanap_pandacss/logger@0.5.1
+  - @mfauzanap_pandacss/postcss@0.5.1
+  - @mfauzanap_pandacss/preset-panda@0.5.1
+  - @mfauzanap_pandacss/token-dictionary@0.5.1
+  - @mfauzanap_pandacss/astro@0.5.1
+  - @mfauzanap_pandacss/error@0.5.1
 
 ## 0.5.0
 
@@ -470,17 +470,17 @@
 - Updated dependencies [60df9bd1]
 - Updated dependencies [ead9eaa3]
 - Updated dependencies [3a87cff8]
-  - @pandacss/shared@0.5.0
-  - @pandacss/types@0.5.0
-  - @pandacss/preset-panda@0.5.0
-  - @pandacss/studio@0.5.0
-  - @pandacss/node@0.5.0
-  - @pandacss/token-dictionary@0.5.0
-  - @pandacss/config@0.5.0
-  - @pandacss/postcss@0.5.0
-  - @pandacss/astro@0.5.0
-  - @pandacss/error@0.5.0
-  - @pandacss/logger@0.5.0
+  - @mfauzanap_pandacss/shared@0.5.0
+  - @mfauzanap_pandacss/types@0.5.0
+  - @mfauzanap_pandacss/preset-panda@0.5.0
+  - @mfauzanap_pandacss/studio@0.5.0
+  - @mfauzanap_pandacss/node@0.5.0
+  - @mfauzanap_pandacss/token-dictionary@0.5.0
+  - @mfauzanap_pandacss/config@0.5.0
+  - @mfauzanap_pandacss/postcss@0.5.0
+  - @mfauzanap_pandacss/astro@0.5.0
+  - @mfauzanap_pandacss/error@0.5.0
+  - @mfauzanap_pandacss/logger@0.5.0
 
 ## 0.4.0
 
@@ -497,17 +497,17 @@
 - Updated dependencies [d00eb17c]
 - Updated dependencies [c7b42325]
 - Updated dependencies [5b344b9c]
-  - @pandacss/studio@0.4.0
-  - @pandacss/types@0.4.0
-  - @pandacss/config@0.4.0
-  - @pandacss/node@0.4.0
-  - @pandacss/preset-panda@0.4.0
-  - @pandacss/token-dictionary@0.4.0
-  - @pandacss/postcss@0.4.0
-  - @pandacss/astro@0.4.0
-  - @pandacss/error@0.4.0
-  - @pandacss/logger@0.4.0
-  - @pandacss/shared@0.4.0
+  - @mfauzanap_pandacss/studio@0.4.0
+  - @mfauzanap_pandacss/types@0.4.0
+  - @mfauzanap_pandacss/config@0.4.0
+  - @mfauzanap_pandacss/node@0.4.0
+  - @mfauzanap_pandacss/preset-panda@0.4.0
+  - @mfauzanap_pandacss/token-dictionary@0.4.0
+  - @mfauzanap_pandacss/postcss@0.4.0
+  - @mfauzanap_pandacss/astro@0.4.0
+  - @mfauzanap_pandacss/error@0.4.0
+  - @mfauzanap_pandacss/logger@0.4.0
+  - @mfauzanap_pandacss/shared@0.4.0
 
 ## 0.3.2
 
@@ -522,17 +522,17 @@
 - Updated dependencies [24b78f7c]
 - Updated dependencies [9822d79a]
 - Updated dependencies [65d3423f]
-  - @pandacss/postcss@0.3.2
-  - @pandacss/config@0.3.2
-  - @pandacss/studio@0.3.2
-  - @pandacss/astro@0.3.2
-  - @pandacss/node@0.3.2
-  - @pandacss/error@0.3.2
-  - @pandacss/logger@0.3.2
-  - @pandacss/preset-panda@0.3.2
-  - @pandacss/shared@0.3.2
-  - @pandacss/token-dictionary@0.3.2
-  - @pandacss/types@0.3.2
+  - @mfauzanap_pandacss/postcss@0.3.2
+  - @mfauzanap_pandacss/config@0.3.2
+  - @mfauzanap_pandacss/studio@0.3.2
+  - @mfauzanap_pandacss/astro@0.3.2
+  - @mfauzanap_pandacss/node@0.3.2
+  - @mfauzanap_pandacss/error@0.3.2
+  - @mfauzanap_pandacss/logger@0.3.2
+  - @mfauzanap_pandacss/preset-panda@0.3.2
+  - @mfauzanap_pandacss/shared@0.3.2
+  - @mfauzanap_pandacss/token-dictionary@0.3.2
+  - @mfauzanap_pandacss/types@0.3.2
 
 ## 0.3.1
 
@@ -541,17 +541,17 @@
 - efd79d83: Baseline release for the launch
 - Updated dependencies [efd79d83]
 - Updated dependencies [22ec328e]
-  - @pandacss/astro@0.3.1
-  - @pandacss/config@0.3.1
-  - @pandacss/error@0.3.1
-  - @pandacss/logger@0.3.1
-  - @pandacss/node@0.3.1
-  - @pandacss/postcss@0.3.1
-  - @pandacss/preset-panda@0.3.1
-  - @pandacss/shared@0.3.1
-  - @pandacss/studio@0.3.1
-  - @pandacss/token-dictionary@0.3.1
-  - @pandacss/types@0.3.1
+  - @mfauzanap_pandacss/astro@0.3.1
+  - @mfauzanap_pandacss/config@0.3.1
+  - @mfauzanap_pandacss/error@0.3.1
+  - @mfauzanap_pandacss/logger@0.3.1
+  - @mfauzanap_pandacss/node@0.3.1
+  - @mfauzanap_pandacss/postcss@0.3.1
+  - @mfauzanap_pandacss/preset-panda@0.3.1
+  - @mfauzanap_pandacss/shared@0.3.1
+  - @mfauzanap_pandacss/studio@0.3.1
+  - @mfauzanap_pandacss/token-dictionary@0.3.1
+  - @mfauzanap_pandacss/types@0.3.1
 
 ## 0.3.0
 
@@ -560,17 +560,17 @@
 - Updated dependencies [b8ab0868]
 - Updated dependencies [bd5c049b]
 - Updated dependencies [6d81ee9e]
-  - @pandacss/node@0.3.0
-  - @pandacss/preset-panda@0.3.0
-  - @pandacss/types@0.3.0
-  - @pandacss/postcss@0.3.0
-  - @pandacss/studio@0.3.0
-  - @pandacss/config@0.3.0
-  - @pandacss/token-dictionary@0.3.0
-  - @pandacss/astro@0.3.0
-  - @pandacss/error@0.3.0
-  - @pandacss/logger@0.3.0
-  - @pandacss/shared@0.3.0
+  - @mfauzanap_pandacss/node@0.3.0
+  - @mfauzanap_pandacss/preset-panda@0.3.0
+  - @mfauzanap_pandacss/types@0.3.0
+  - @mfauzanap_pandacss/postcss@0.3.0
+  - @mfauzanap_pandacss/studio@0.3.0
+  - @mfauzanap_pandacss/config@0.3.0
+  - @mfauzanap_pandacss/token-dictionary@0.3.0
+  - @mfauzanap_pandacss/astro@0.3.0
+  - @mfauzanap_pandacss/error@0.3.0
+  - @mfauzanap_pandacss/logger@0.3.0
+  - @mfauzanap_pandacss/shared@0.3.0
 
 ## 0.0.2
 
@@ -586,10 +586,10 @@
 
 - Updated dependencies [c308e8be]
 - Updated dependencies [fb40fff2]
-  - @pandacss/config@0.0.2
-  - @pandacss/types@0.0.2
-  - @pandacss/error@0.0.2
-  - @pandacss/logger@0.0.2
-  - @pandacss/node@0.0.2
-  - @pandacss/shared@0.0.2
-  - @pandacss/token-dictionary@0.0.2
+  - @mfauzanap_pandacss/config@0.0.2
+  - @mfauzanap_pandacss/types@0.0.2
+  - @mfauzanap_pandacss/error@0.0.2
+  - @mfauzanap_pandacss/logger@0.0.2
+  - @mfauzanap_pandacss/node@0.0.2
+  - @mfauzanap_pandacss/shared@0.0.2
+  - @mfauzanap_pandacss/token-dictionary@0.0.2

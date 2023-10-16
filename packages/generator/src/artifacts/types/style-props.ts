@@ -1,4 +1,4 @@
-import { allCssProperties } from '@pandacss/is-valid-prop'
+import { allCssProperties } from '@mfauzanap_pandacss/is-valid-prop'
 import outdent from 'outdent'
 import type { Context } from '../../engines'
 

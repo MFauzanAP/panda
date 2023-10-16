@@ -1,4 +1,4 @@
-import { memo } from '@pandacss/shared'
+import { memo } from '@mfauzanap_pandacss/shared'
 import type { ImportDeclaration, SourceFile } from 'ts-morph'
 
 type ImportResult = {

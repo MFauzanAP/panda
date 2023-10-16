@@ -1,4 +1,4 @@
-import type { ResultItem } from '@pandacss/types'
+import type { ResultItem } from '@mfauzanap_pandacss/types'
 
 export class ParserResult {
   jsx = new Set<ResultItem>()

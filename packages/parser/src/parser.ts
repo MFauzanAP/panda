@@ -1,14 +1,14 @@
-import { BoxNodeMap, extract, unbox, type BoxNode, type Unboxed, box } from '@pandacss/extractor'
-import { logger } from '@pandacss/logger'
-import { astish, memo } from '@pandacss/shared'
+import { BoxNodeMap, extract, unbox, type BoxNode, type Unboxed, box } from '@mfauzanap_pandacss/extractor'
+import { logger } from '@mfauzanap_pandacss/logger'
+import { astish, memo } from '@mfauzanap_pandacss/shared'
 import type { SourceFile } from 'ts-morph'
 import { Node } from 'ts-morph'
 import { match } from 'ts-pattern'
 import { getImportDeclarations } from './import'
 import { createParserResult } from './parser-result'
-import type { Config, ConfigTsOptions, ResultItem, Runtime } from '@pandacss/types'
-import { resolveTsPathPattern } from '@pandacss/config/ts-path'
-import type { Generator } from '@pandacss/generator'
+import type { Config, ConfigTsOptions, ResultItem, Runtime } from '@mfauzanap_pandacss/types'
+import { resolveTsPathPattern } from '@mfauzanap_pandacss/config/ts-path'
+import type { Generator } from '@mfauzanap_pandacss/generator'
 
 type ParserPatternNode = Generator['patterns']['details'][number]
 type ParserRecipeNode = Generator['recipes']['details'][number]

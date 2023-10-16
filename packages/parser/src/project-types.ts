@@ -1,6 +1,6 @@
 import { type ProjectOptions as TsProjectOptions } from 'ts-morph'
 import { type ParserOptions } from './parser'
-import type { ConfigTsOptions, PandaHookable, Runtime } from '@pandacss/types'
+import type { ConfigTsOptions, PandaHookable, Runtime } from '@mfauzanap_pandacss/types'
 
 export type ProjectOptions = Partial<TsProjectOptions> & {
   readFile: Runtime['fs']['readFileSync']

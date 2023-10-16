@@ -1,4 +1,4 @@
-import { isBaseCondition, isObject, toHash, walkObject } from '@pandacss/shared'
+import { isBaseCondition, isObject, toHash, walkObject } from '@mfauzanap_pandacss/shared'
 import { getReferences, hasReference } from './utils'
 
 /**

@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/core",
+  "name": "@mfauzanap_pandacss/core",
   "version": "0.15.5",
   "description": "core functions for extract-it",
   "main": "dist/index.js",
@@ -19,11 +19,11 @@
     "access": "public"
   },
   "dependencies": {
-    "@pandacss/error": "workspace:*",
-    "@pandacss/logger": "workspace:*",
-    "@pandacss/shared": "workspace:*",
-    "@pandacss/token-dictionary": "workspace:*",
-    "@pandacss/types": "workspace:*",
+    "@mfauzanap_pandacss/error": "workspace:*",
+    "@mfauzanap_pandacss/logger": "workspace:*",
+    "@mfauzanap_pandacss/shared": "workspace:*",
+    "@mfauzanap_pandacss/token-dictionary": "workspace:*",
+    "@mfauzanap_pandacss/types": "workspace:*",
     "autoprefixer": "10.4.15",
     "hookable": "5.5.3",
     "lodash.merge": "4.6.2",
@@ -38,7 +38,7 @@
     "ts-pattern": "5.0.5"
   },
   "devDependencies": {
-    "@pandacss/fixture": "workspace:*",
+    "@mfauzanap_pandacss/fixture": "workspace:*",
     "@types/lodash.merge": "4.6.7"
   }
 }

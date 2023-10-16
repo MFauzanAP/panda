@@ -1,4 +1,4 @@
-import type { Tokens } from '@pandacss/types'
+import type { Tokens } from '@mfauzanap_pandacss/types'
 import { colors } from './colors'
 import { animations } from './keyframes'
 import { borders } from './borders'

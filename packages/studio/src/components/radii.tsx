@@ -1,4 +1,4 @@
-import { toPx } from '@pandacss/shared'
+import { toPx } from '@mfauzanap_pandacss/shared'
 import { Grid, panda, Stack } from '../../styled-system/jsx'
 import context from '../lib/panda.context'
 import { getSortedSizes } from '../lib/sizes-sort'

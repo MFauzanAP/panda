@@ -1,4 +1,4 @@
-import type { Theme } from '@pandacss/types'
+import type { Theme } from '@mfauzanap_pandacss/types'
 
 export const breakpoints: Theme['breakpoints'] = {
   sm: '30rem',

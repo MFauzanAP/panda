@@ -1,17 +1,17 @@
-import { ConfigError, ConfigNotFoundError } from '@pandacss/error'
-import { logger } from '@pandacss/logger'
-import type { LoadConfigResult } from '@pandacss/types'
+import { ConfigError, ConfigNotFoundError } from '@mfauzanap_pandacss/error'
+import { logger } from '@mfauzanap_pandacss/logger'
+import type { LoadConfigResult } from '@mfauzanap_pandacss/types'
 import { bundle } from './bundle'
 import { findConfigFile } from './find-config'
 import { getResolvedConfig } from './get-resolved-config'
 
-import { preset as presetBase } from '@pandacss/preset-base'
-import { preset as presetPanda } from '@pandacss/preset-panda'
+import { preset as presetBase } from '@mfauzanap_pandacss/preset-base'
+import { preset as presetPanda } from '@mfauzanap_pandacss/preset-panda'
 
 const bundledPresets = {
-  '@pandacss/preset-base': presetBase,
-  '@pandacss/preset-panda': presetPanda,
-  '@pandacss/dev/presets': presetPanda,
+  '@mfauzanap_pandacss/preset-base': presetBase,
+  '@mfauzanap_pandacss/preset-panda': presetPanda,
+  '@mfauzanap_pandacss/dev/presets': presetPanda,
 }
 const bundledPresetsNames = Object.keys(bundledPresets)
 const isBundledPreset = (preset: string): preset is keyof typeof bundledPresets => bundledPresetsNames.includes(preset)

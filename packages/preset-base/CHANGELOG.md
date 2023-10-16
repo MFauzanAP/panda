@@ -1,16 +1,16 @@
-# @pandacss/preset-base
+# @mfauzanap_pandacss/preset-base
 
 ## 0.15.5
 
 ### Patch Changes
 
-- @pandacss/types@0.15.5
+- @mfauzanap_pandacss/types@0.15.5
 
 ## 0.15.4
 
 ### Patch Changes
 
-- @pandacss/types@0.15.4
+- @mfauzanap_pandacss/types@0.15.4
 
 ## 0.15.3
 
@@ -18,20 +18,20 @@
 
 - Updated dependencies [1ac2011b]
 - Updated dependencies [58743bc4]
-  - @pandacss/types@0.15.3
+  - @mfauzanap_pandacss/types@0.15.3
 
 ## 0.15.2
 
 ### Patch Changes
 
 - Updated dependencies [26a788c0]
-  - @pandacss/types@0.15.2
+  - @mfauzanap_pandacss/types@0.15.2
 
 ## 0.15.1
 
 ### Patch Changes
 
-- @pandacss/types@0.15.1
+- @mfauzanap_pandacss/types@0.15.1
 
 ## 0.15.0
 
@@ -39,7 +39,7 @@
 
 - Updated dependencies [4bc515ea]
 - Updated dependencies [39298609]
-  - @pandacss/types@0.15.0
+  - @mfauzanap_pandacss/types@0.15.0
 
 ## 0.14.0
 
@@ -48,45 +48,45 @@
 - Updated dependencies [8106b411]
 - Updated dependencies [e6459a59]
 - Updated dependencies [6f7ee198]
-  - @pandacss/types@0.14.0
+  - @mfauzanap_pandacss/types@0.14.0
 
 ## 0.13.1
 
 ### Patch Changes
 
-- @pandacss/types@0.13.1
+- @mfauzanap_pandacss/types@0.13.1
 
 ## 0.13.0
 
 ### Patch Changes
 
-- @pandacss/types@0.13.0
+- @mfauzanap_pandacss/types@0.13.0
 
 ## 0.12.2
 
 ### Patch Changes
 
-- @pandacss/types@0.12.2
+- @mfauzanap_pandacss/types@0.12.2
 
 ## 0.12.1
 
 ### Patch Changes
 
-- @pandacss/types@0.12.1
+- @mfauzanap_pandacss/types@0.12.1
 
 ## 0.12.0
 
 ### Patch Changes
 
 - bf2ff391: Add `animationName` utility
-  - @pandacss/types@0.12.0
+  - @mfauzanap_pandacss/types@0.12.0
 
 ## 0.11.1
 
 ### Patch Changes
 
 - Updated dependencies [23b516f4]
-  - @pandacss/types@0.11.1
+  - @mfauzanap_pandacss/types@0.11.1
 
 ## 0.11.0
 
@@ -135,7 +135,7 @@
 ### Patch Changes
 
 - Updated dependencies [5b95caf5]
-  - @pandacss/types@0.11.0
+  - @mfauzanap_pandacss/types@0.11.0
 
 ## 0.10.0
 
@@ -146,7 +146,7 @@
 - Updated dependencies [24e783b3]
 - Updated dependencies [386e5098]
 - Updated dependencies [a669f4d5]
-  - @pandacss/types@0.10.0
+  - @mfauzanap_pandacss/types@0.10.0
 
 ## 0.9.0
 
@@ -189,7 +189,7 @@
   To track the `CustomCircle` component, you can now use the `jsx` property.
 
   ```js
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     patterns: {
@@ -205,7 +205,7 @@
 ### Patch Changes
 
 - Updated dependencies [c08de87f]
-  - @pandacss/types@0.9.0
+  - @mfauzanap_pandacss/types@0.9.0
 
 ## 0.8.0
 
@@ -213,7 +213,7 @@
 
 - be0ad578: Fix parser issue with TS path mappings
 - Updated dependencies [be0ad578]
-  - @pandacss/types@0.8.0
+  - @mfauzanap_pandacss/types@0.8.0
 
 ## 0.7.0
 
@@ -240,7 +240,7 @@
 
 - d9eeba60: Fix issue where `zIndex` tokens are not connected to zIndex utility
 - Updated dependencies [a9c189b7]
-  - @pandacss/types@0.7.0
+  - @mfauzanap_pandacss/types@0.7.0
 
 ## 0.6.0
 
@@ -255,7 +255,7 @@
   - Fix issue where `gridItem` pattern did not use the `colStart` and `rowStart` values
 
 - f7aff8eb: Fix issue where `_even` and `_odd` map to incorrect selectors
-  - @pandacss/types@0.6.0
+  - @mfauzanap_pandacss/types@0.6.0
 
 ## 0.5.1
 
@@ -264,14 +264,14 @@
 - Updated dependencies [8c670d60]
 - Updated dependencies [1ed239cd]
 - Updated dependencies [78ed6ed4]
-  - @pandacss/types@0.5.1
+  - @mfauzanap_pandacss/types@0.5.1
 
 ## 0.5.0
 
 ### Patch Changes
 
 - Updated dependencies [ead9eaa3]
-  - @pandacss/types@0.5.0
+  - @mfauzanap_pandacss/types@0.5.0
 
 ## 0.4.0
 
@@ -284,13 +284,13 @@
 - 0f36ebad: Add polyfill for common properties to reduce the need for autoprefixer
 - Updated dependencies [c7b42325]
 - Updated dependencies [5b344b9c]
-  - @pandacss/types@0.4.0
+  - @mfauzanap_pandacss/types@0.4.0
 
 ## 0.3.2
 
 ### Patch Changes
 
-- @pandacss/types@0.3.2
+- @mfauzanap_pandacss/types@0.3.2
 
 ## 0.3.1
 
@@ -298,7 +298,7 @@
 
 - efd79d83: Baseline release for the launch
 - Updated dependencies [efd79d83]
-  - @pandacss/types@0.3.1
+  - @mfauzanap_pandacss/types@0.3.1
 
 ## 0.3.0
 
@@ -306,4 +306,4 @@
 
 - bd5c049b: Initial release
 - Updated dependencies [6d81ee9e]
-  - @pandacss/types@0.3.0
+  - @mfauzanap_pandacss/types@0.3.0

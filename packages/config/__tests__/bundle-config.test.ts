@@ -23,7 +23,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {
@@ -60,7 +60,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {
@@ -100,7 +100,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
             {
               "theme": {
                 "extend": {
@@ -186,7 +186,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {
@@ -226,7 +226,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {
@@ -266,7 +266,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {
@@ -306,7 +306,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {
@@ -346,7 +346,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {
@@ -386,7 +386,7 @@ describe('bundle config', () => {
           "jsxFramework": "react",
           "preflight": true,
           "presets": [
-            "@pandacss/dev/presets",
+            "@mfauzanap_pandacss/dev/presets",
           ],
           "theme": {
             "extend": {

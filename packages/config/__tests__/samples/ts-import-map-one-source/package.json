@@ -17,6 +17,6 @@
     "#panda/jsx": "./ts-import-map-outdir/jsx/index.mjs"
   },
   "devDependencies": {
-    "@pandacss/dev": "workspace:^"
+    "@mfauzanap_pandacss/dev": "workspace:^"
   }
 }

@@ -1,5 +1,5 @@
-import { capitalize } from '@pandacss/shared'
-import type { UserConfig } from '@pandacss/types'
+import { capitalize } from '@mfauzanap_pandacss/shared'
+import type { UserConfig } from '@mfauzanap_pandacss/types'
 
 export const getJsxEngine = (config: UserConfig) => {
   const { jsxFactory, jsxFramework, jsxStyleProps } = config

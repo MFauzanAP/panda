@@ -1,16 +1,16 @@
-# @pandacss/studio
+# @mfauzanap_pandacss/studio
 
 ## 0.15.5
 
 ### Patch Changes
 
 - Updated dependencies [909fcbe8]
-  - @pandacss/node@0.15.5
-  - @pandacss/config@0.15.5
-  - @pandacss/logger@0.15.5
-  - @pandacss/shared@0.15.5
-  - @pandacss/token-dictionary@0.15.5
-  - @pandacss/types@0.15.5
+  - @mfauzanap_pandacss/node@0.15.5
+  - @mfauzanap_pandacss/config@0.15.5
+  - @mfauzanap_pandacss/logger@0.15.5
+  - @mfauzanap_pandacss/shared@0.15.5
+  - @mfauzanap_pandacss/token-dictionary@0.15.5
+  - @mfauzanap_pandacss/types@0.15.5
 
 ## 0.15.4
 
@@ -81,12 +81,12 @@
   ```
 
 - Updated dependencies [abd7c47a]
-  - @pandacss/config@0.15.4
-  - @pandacss/node@0.15.4
-  - @pandacss/types@0.15.4
-  - @pandacss/logger@0.15.4
-  - @pandacss/shared@0.15.4
-  - @pandacss/token-dictionary@0.15.4
+  - @mfauzanap_pandacss/config@0.15.4
+  - @mfauzanap_pandacss/node@0.15.4
+  - @mfauzanap_pandacss/types@0.15.4
+  - @mfauzanap_pandacss/logger@0.15.4
+  - @mfauzanap_pandacss/shared@0.15.4
+  - @mfauzanap_pandacss/token-dictionary@0.15.4
 
 ## 0.15.3
 
@@ -133,12 +133,12 @@
 - Updated dependencies [95b06bb1]
 - Updated dependencies [1ac2011b]
 - Updated dependencies [58743bc4]
-  - @pandacss/shared@0.15.3
-  - @pandacss/types@0.15.3
-  - @pandacss/node@0.15.3
-  - @pandacss/token-dictionary@0.15.3
-  - @pandacss/config@0.15.3
-  - @pandacss/logger@0.15.3
+  - @mfauzanap_pandacss/shared@0.15.3
+  - @mfauzanap_pandacss/types@0.15.3
+  - @mfauzanap_pandacss/node@0.15.3
+  - @mfauzanap_pandacss/token-dictionary@0.15.3
+  - @mfauzanap_pandacss/config@0.15.3
+  - @mfauzanap_pandacss/logger@0.15.3
 
 ## 0.15.2
 
@@ -150,12 +150,12 @@
 - Updated dependencies [f3c30d60]
 - Updated dependencies [26a788c0]
 - Updated dependencies [2645c2da]
-  - @pandacss/node@0.15.2
-  - @pandacss/types@0.15.2
-  - @pandacss/config@0.15.2
-  - @pandacss/token-dictionary@0.15.2
-  - @pandacss/logger@0.15.2
-  - @pandacss/shared@0.15.2
+  - @mfauzanap_pandacss/node@0.15.2
+  - @mfauzanap_pandacss/types@0.15.2
+  - @mfauzanap_pandacss/config@0.15.2
+  - @mfauzanap_pandacss/token-dictionary@0.15.2
+  - @mfauzanap_pandacss/logger@0.15.2
+  - @mfauzanap_pandacss/shared@0.15.2
 
 ## 0.15.1
 
@@ -164,12 +164,12 @@
 - 7e8bcb03: Fix an issue when wrapping a component with `styled` would display its name as `styled.[object Object]`
 - Updated dependencies [26f6982c]
 - Updated dependencies [4e003bfb]
-  - @pandacss/shared@0.15.1
-  - @pandacss/token-dictionary@0.15.1
-  - @pandacss/node@0.15.1
-  - @pandacss/types@0.15.1
-  - @pandacss/config@0.15.1
-  - @pandacss/logger@0.15.1
+  - @mfauzanap_pandacss/shared@0.15.1
+  - @mfauzanap_pandacss/token-dictionary@0.15.1
+  - @mfauzanap_pandacss/node@0.15.1
+  - @mfauzanap_pandacss/types@0.15.1
+  - @mfauzanap_pandacss/config@0.15.1
+  - @mfauzanap_pandacss/logger@0.15.1
 
 ## 0.15.0
 
@@ -185,12 +185,12 @@
 - Updated dependencies [9f429d35]
 - Updated dependencies [39298609]
 - Updated dependencies [f27146d6]
-  - @pandacss/types@0.15.0
-  - @pandacss/shared@0.15.0
-  - @pandacss/node@0.15.0
-  - @pandacss/config@0.15.0
-  - @pandacss/token-dictionary@0.15.0
-  - @pandacss/logger@0.15.0
+  - @mfauzanap_pandacss/types@0.15.0
+  - @mfauzanap_pandacss/shared@0.15.0
+  - @mfauzanap_pandacss/node@0.15.0
+  - @mfauzanap_pandacss/config@0.15.0
+  - @mfauzanap_pandacss/token-dictionary@0.15.0
+  - @mfauzanap_pandacss/logger@0.15.0
 
 ## 0.14.0
 
@@ -205,12 +205,12 @@
 - Updated dependencies [9e799554]
 - Updated dependencies [e6459a59]
 - Updated dependencies [6f7ee198]
-  - @pandacss/token-dictionary@0.14.0
-  - @pandacss/types@0.14.0
-  - @pandacss/node@0.14.0
-  - @pandacss/config@0.14.0
-  - @pandacss/logger@0.14.0
-  - @pandacss/shared@0.14.0
+  - @mfauzanap_pandacss/token-dictionary@0.14.0
+  - @mfauzanap_pandacss/types@0.14.0
+  - @mfauzanap_pandacss/node@0.14.0
+  - @mfauzanap_pandacss/config@0.14.0
+  - @mfauzanap_pandacss/logger@0.14.0
+  - @mfauzanap_pandacss/shared@0.14.0
 
 ## 0.13.1
 
@@ -218,45 +218,45 @@
 
 - 577dcb9d: Fix issue where Panda does not detect styles after nested template in vue
 - Updated dependencies [d0fbc7cc]
-  - @pandacss/config@0.13.1
-  - @pandacss/node@0.13.1
-  - @pandacss/logger@0.13.1
-  - @pandacss/shared@0.13.1
-  - @pandacss/token-dictionary@0.13.1
-  - @pandacss/types@0.13.1
+  - @mfauzanap_pandacss/config@0.13.1
+  - @mfauzanap_pandacss/node@0.13.1
+  - @mfauzanap_pandacss/logger@0.13.1
+  - @mfauzanap_pandacss/shared@0.13.1
+  - @mfauzanap_pandacss/token-dictionary@0.13.1
+  - @mfauzanap_pandacss/types@0.13.1
 
 ## 0.13.0
 
 ### Patch Changes
 
-- @pandacss/node@0.13.0
-- @pandacss/config@0.13.0
-- @pandacss/logger@0.13.0
-- @pandacss/shared@0.13.0
-- @pandacss/token-dictionary@0.13.0
-- @pandacss/types@0.13.0
+- @mfauzanap_pandacss/node@0.13.0
+- @mfauzanap_pandacss/config@0.13.0
+- @mfauzanap_pandacss/logger@0.13.0
+- @mfauzanap_pandacss/shared@0.13.0
+- @mfauzanap_pandacss/token-dictionary@0.13.0
+- @mfauzanap_pandacss/types@0.13.0
 
 ## 0.12.2
 
 ### Patch Changes
 
-- @pandacss/node@0.12.2
-- @pandacss/config@0.12.2
-- @pandacss/logger@0.12.2
-- @pandacss/shared@0.12.2
-- @pandacss/token-dictionary@0.12.2
-- @pandacss/types@0.12.2
+- @mfauzanap_pandacss/node@0.12.2
+- @mfauzanap_pandacss/config@0.12.2
+- @mfauzanap_pandacss/logger@0.12.2
+- @mfauzanap_pandacss/shared@0.12.2
+- @mfauzanap_pandacss/token-dictionary@0.12.2
+- @mfauzanap_pandacss/types@0.12.2
 
 ## 0.12.1
 
 ### Patch Changes
 
-- @pandacss/node@0.12.1
-- @pandacss/config@0.12.1
-- @pandacss/logger@0.12.1
-- @pandacss/shared@0.12.1
-- @pandacss/token-dictionary@0.12.1
-- @pandacss/types@0.12.1
+- @mfauzanap_pandacss/node@0.12.1
+- @mfauzanap_pandacss/config@0.12.1
+- @mfauzanap_pandacss/logger@0.12.1
+- @mfauzanap_pandacss/shared@0.12.1
+- @mfauzanap_pandacss/token-dictionary@0.12.1
+- @mfauzanap_pandacss/types@0.12.1
 
 ## 0.12.0
 
@@ -264,9 +264,9 @@
 
 - 4c8c1715: Export types for all `define` helper functions
 - bf2ff391: Add `animationName` utility
-  - @pandacss/node@0.12.0
-  - @pandacss/config@0.12.0
-  - @pandacss/token-dictionary@0.12.0
-  - @pandacss/logger@0.12.0
-  - @pandacss/shared@0.12.0
-  - @pandacss/types@0.12.0
+  - @mfauzanap_pandacss/node@0.12.0
+  - @mfauzanap_pandacss/config@0.12.0
+  - @mfauzanap_pandacss/token-dictionary@0.12.0
+  - @mfauzanap_pandacss/logger@0.12.0
+  - @mfauzanap_pandacss/shared@0.12.0
+  - @mfauzanap_pandacss/types@0.12.0

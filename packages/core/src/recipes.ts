@@ -1,5 +1,5 @@
-import { capitalize, createRegex, dashCase, getSlotRecipes, memo, splitProps } from '@pandacss/shared'
-import type { Dict, RecipeConfig, SlotRecipeConfig, SystemStyleObject } from '@pandacss/types'
+import { capitalize, createRegex, dashCase, getSlotRecipes, memo, splitProps } from '@mfauzanap_pandacss/shared'
+import type { Dict, RecipeConfig, SlotRecipeConfig, SystemStyleObject } from '@mfauzanap_pandacss/types'
 import merge from 'lodash.merge'
 import { AtomicRule, type ProcessOptions } from './atomic-rule'
 import { isSlotRecipe } from './is-slot-recipe'

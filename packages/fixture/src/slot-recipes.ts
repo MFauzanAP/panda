@@ -1,4 +1,4 @@
-import type { SlotRecipeConfig } from '@pandacss/types'
+import type { SlotRecipeConfig } from '@mfauzanap_pandacss/types'
 
 export const slotRecipes: Record<string, SlotRecipeConfig> = {
   button: {

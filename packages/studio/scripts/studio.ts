@@ -1,4 +1,4 @@
-import { colors, logger } from '@pandacss/logger'
+import { colors, logger } from '@mfauzanap_pandacss/logger'
 import { execa } from 'execa'
 import { join } from 'node:path'
 import { createRequire } from 'node:module'

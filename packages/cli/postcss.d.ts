@@ -1,2 +1,2 @@
-export * from '@pandacss/postcss'
-export { default } from '@pandacss/postcss'
+export * from '@mfauzanap_pandacss/postcss'
+export { default } from '@mfauzanap_pandacss/postcss'

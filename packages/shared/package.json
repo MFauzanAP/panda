@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/shared",
+  "name": "@mfauzanap_pandacss/shared",
   "version": "0.15.5",
   "description": "Shared utilities for css panda",
   "main": "dist/index.js",

@@ -1,5 +1,5 @@
-import { logger } from '@pandacss/logger'
-import type { Config } from '@pandacss/types'
+import { logger } from '@mfauzanap_pandacss/logger'
+import type { Config } from '@mfauzanap_pandacss/types'
 import { match } from 'ts-pattern'
 import type { PandaContext } from './create-context'
 import { bundleStyleChunksWithImports, emitArtfifactsAndCssChunks, writeFileChunk } from './extract'

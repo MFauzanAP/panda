@@ -1,4 +1,4 @@
-import type { Tokens } from '@pandacss/types'
+import type { Tokens } from '@mfauzanap_pandacss/types'
 
 export const radii: Tokens['radii'] = {
   '050': { value: '0.125rem' },

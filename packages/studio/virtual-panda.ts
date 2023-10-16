@@ -1,4 +1,4 @@
-import { loadConfigAndCreateContext, type PandaContext } from '@pandacss/node'
+import { loadConfigAndCreateContext, type PandaContext } from '@mfauzanap_pandacss/node'
 import type { AstroIntegration } from 'astro'
 import { stringify } from 'javascript-stringify'
 import type { PluginOption } from 'vite'

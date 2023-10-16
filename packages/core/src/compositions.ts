@@ -1,5 +1,5 @@
-import { flatten } from '@pandacss/shared'
-import type { Dict, PropertyConfig } from '@pandacss/types'
+import { flatten } from '@mfauzanap_pandacss/shared'
+import type { Dict, PropertyConfig } from '@mfauzanap_pandacss/types'
 import { type SerializeContext, serializeStyle } from './serialize'
 
 export function assignCompositions(compositions: Dict, ctx: SerializeContext) {

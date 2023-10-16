@@ -1,6 +1,6 @@
 // Fork of post-css-js: https://github.com/postcss/postcss-js/blob/main/parser.js
 
-import { hypenateProperty } from '@pandacss/shared'
+import { hypenateProperty } from '@mfauzanap_pandacss/shared'
 import postcss, { Container, type Parser } from 'postcss'
 import { unitlessProperties } from '../unitless'
 

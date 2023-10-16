@@ -1,4 +1,4 @@
-import { colors, logger } from '@pandacss/logger'
+import { colors, logger } from '@mfauzanap_pandacss/logger'
 import {
   analyzeTokens,
   bundleCss,
@@ -16,10 +16,10 @@ import {
   type PandaContext,
   generateCssArtifactOfType,
   type CssArtifactType,
-} from '@pandacss/node'
-import { findConfigFile } from '@pandacss/config'
-import { compact } from '@pandacss/shared'
-import { buildStudio, previewStudio, serveStudio } from '@pandacss/studio'
+} from '@mfauzanap_pandacss/node'
+import { findConfigFile } from '@mfauzanap_pandacss/config'
+import { compact } from '@mfauzanap_pandacss/shared'
+import { buildStudio, previewStudio, serveStudio } from '@mfauzanap_pandacss/studio'
 import { cac } from 'cac'
 import { join, resolve } from 'pathe'
 import { debounce } from 'perfect-debounce'

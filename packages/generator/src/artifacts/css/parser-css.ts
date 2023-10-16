@@ -1,5 +1,5 @@
-import { logger } from '@pandacss/logger'
-import type { Dict, ParserResultType } from '@pandacss/types'
+import { logger } from '@mfauzanap_pandacss/logger'
+import type { Dict, ParserResultType } from '@mfauzanap_pandacss/types'
 import { pipe, tap, tryCatch } from 'lil-fp/func'
 import { P, match } from 'ts-pattern'
 import type { Context } from '../../engines'

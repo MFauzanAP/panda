@@ -1,18 +1,18 @@
-# @pandacss/token-dictionary
+# @mfauzanap_pandacss/token-dictionary
 
 ## 0.15.5
 
 ### Patch Changes
 
-- @pandacss/shared@0.15.5
-- @pandacss/types@0.15.5
+- @mfauzanap_pandacss/shared@0.15.5
+- @mfauzanap_pandacss/types@0.15.5
 
 ## 0.15.4
 
 ### Patch Changes
 
-- @pandacss/types@0.15.4
-- @pandacss/shared@0.15.4
+- @mfauzanap_pandacss/types@0.15.4
+- @mfauzanap_pandacss/shared@0.15.4
 
 ## 0.15.3
 
@@ -21,16 +21,16 @@
 - Updated dependencies [95b06bb1]
 - Updated dependencies [1ac2011b]
 - Updated dependencies [58743bc4]
-  - @pandacss/shared@0.15.3
-  - @pandacss/types@0.15.3
+  - @mfauzanap_pandacss/shared@0.15.3
+  - @mfauzanap_pandacss/types@0.15.3
 
 ## 0.15.2
 
 ### Patch Changes
 
 - Updated dependencies [26a788c0]
-  - @pandacss/types@0.15.2
-  - @pandacss/shared@0.15.2
+  - @mfauzanap_pandacss/types@0.15.2
+  - @mfauzanap_pandacss/shared@0.15.2
 
 ## 0.15.1
 
@@ -38,8 +38,8 @@
 
 - 4e003bfb: - reuse css variable in semantic token alias
 - Updated dependencies [26f6982c]
-  - @pandacss/shared@0.15.1
-  - @pandacss/types@0.15.1
+  - @mfauzanap_pandacss/shared@0.15.1
+  - @mfauzanap_pandacss/types@0.15.1
 
 ## 0.15.0
 
@@ -49,8 +49,8 @@
 - Updated dependencies [9f429d35]
 - Updated dependencies [39298609]
 - Updated dependencies [f27146d6]
-  - @pandacss/types@0.15.0
-  - @pandacss/shared@0.15.0
+  - @mfauzanap_pandacss/types@0.15.0
+  - @mfauzanap_pandacss/shared@0.15.0
 
 ## 0.14.0
 
@@ -141,43 +141,43 @@
 - Updated dependencies [8106b411]
 - Updated dependencies [e6459a59]
 - Updated dependencies [6f7ee198]
-  - @pandacss/types@0.14.0
-  - @pandacss/shared@0.14.0
+  - @mfauzanap_pandacss/types@0.14.0
+  - @mfauzanap_pandacss/shared@0.14.0
 
 ## 0.13.1
 
 ### Patch Changes
 
-- @pandacss/shared@0.13.1
-- @pandacss/types@0.13.1
+- @mfauzanap_pandacss/shared@0.13.1
+- @mfauzanap_pandacss/types@0.13.1
 
 ## 0.13.0
 
 ### Patch Changes
 
-- @pandacss/shared@0.13.0
-- @pandacss/types@0.13.0
+- @mfauzanap_pandacss/shared@0.13.0
+- @mfauzanap_pandacss/types@0.13.0
 
 ## 0.12.2
 
 ### Patch Changes
 
-- @pandacss/shared@0.12.2
-- @pandacss/types@0.12.2
+- @mfauzanap_pandacss/shared@0.12.2
+- @mfauzanap_pandacss/types@0.12.2
 
 ## 0.12.1
 
 ### Patch Changes
 
-- @pandacss/shared@0.12.1
-- @pandacss/types@0.12.1
+- @mfauzanap_pandacss/shared@0.12.1
+- @mfauzanap_pandacss/types@0.12.1
 
 ## 0.12.0
 
 ### Patch Changes
 
-- @pandacss/shared@0.12.0
-- @pandacss/types@0.12.0
+- @mfauzanap_pandacss/shared@0.12.0
+- @mfauzanap_pandacss/types@0.12.0
 
 ## 0.11.1
 
@@ -185,16 +185,16 @@
 
 - Updated dependencies [c07e1beb]
 - Updated dependencies [23b516f4]
-  - @pandacss/shared@0.11.1
-  - @pandacss/types@0.11.1
+  - @mfauzanap_pandacss/shared@0.11.1
+  - @mfauzanap_pandacss/types@0.11.1
 
 ## 0.11.0
 
 ### Patch Changes
 
 - Updated dependencies [5b95caf5]
-  - @pandacss/types@0.11.0
-  - @pandacss/shared@0.11.0
+  - @mfauzanap_pandacss/types@0.11.0
+  - @mfauzanap_pandacss/shared@0.11.0
 
 ## 0.10.0
 
@@ -204,16 +204,16 @@
 - Updated dependencies [24e783b3]
 - Updated dependencies [386e5098]
 - Updated dependencies [a669f4d5]
-  - @pandacss/shared@0.10.0
-  - @pandacss/types@0.10.0
+  - @mfauzanap_pandacss/shared@0.10.0
+  - @mfauzanap_pandacss/types@0.10.0
 
 ## 0.9.0
 
 ### Patch Changes
 
 - Updated dependencies [c08de87f]
-  - @pandacss/types@0.9.0
-  - @pandacss/shared@0.9.0
+  - @mfauzanap_pandacss/types@0.9.0
+  - @mfauzanap_pandacss/shared@0.9.0
 
 ## 0.8.0
 
@@ -222,8 +222,8 @@
 - ac078416: Fix issue with extracting nested tokens as color-palette. Fix issue with extracting shadow array as a
   separate unnamed block for the custom dark condition.
 - Updated dependencies [be0ad578]
-  - @pandacss/types@0.8.0
-  - @pandacss/shared@0.8.0
+  - @mfauzanap_pandacss/types@0.8.0
+  - @mfauzanap_pandacss/shared@0.8.0
 
 ## 0.7.0
 
@@ -231,15 +231,15 @@
 
 - Updated dependencies [f59154fb]
 - Updated dependencies [a9c189b7]
-  - @pandacss/shared@0.7.0
-  - @pandacss/types@0.7.0
+  - @mfauzanap_pandacss/shared@0.7.0
+  - @mfauzanap_pandacss/types@0.7.0
 
 ## 0.6.0
 
 ### Patch Changes
 
-- @pandacss/types@0.6.0
-- @pandacss/shared@0.6.0
+- @mfauzanap_pandacss/types@0.6.0
+- @mfauzanap_pandacss/shared@0.6.0
 
 ## 0.5.1
 
@@ -250,8 +250,8 @@
 - Updated dependencies [762fd0c9]
 - Updated dependencies [1ed239cd]
 - Updated dependencies [78ed6ed4]
-  - @pandacss/types@0.5.1
-  - @pandacss/shared@0.5.1
+  - @mfauzanap_pandacss/types@0.5.1
+  - @mfauzanap_pandacss/shared@0.5.1
 
 ## 0.5.0
 
@@ -259,8 +259,8 @@
 
 - Updated dependencies [60df9bd1]
 - Updated dependencies [ead9eaa3]
-  - @pandacss/shared@0.5.0
-  - @pandacss/types@0.5.0
+  - @mfauzanap_pandacss/shared@0.5.0
+  - @mfauzanap_pandacss/types@0.5.0
 
 ## 0.4.0
 
@@ -268,15 +268,15 @@
 
 - Updated dependencies [c7b42325]
 - Updated dependencies [5b344b9c]
-  - @pandacss/types@0.4.0
-  - @pandacss/shared@0.4.0
+  - @mfauzanap_pandacss/types@0.4.0
+  - @mfauzanap_pandacss/shared@0.4.0
 
 ## 0.3.2
 
 ### Patch Changes
 
-- @pandacss/shared@0.3.2
-- @pandacss/types@0.3.2
+- @mfauzanap_pandacss/shared@0.3.2
+- @mfauzanap_pandacss/types@0.3.2
 
 ## 0.3.1
 
@@ -284,16 +284,16 @@
 
 - efd79d83: Baseline release for the launch
 - Updated dependencies [efd79d83]
-  - @pandacss/shared@0.3.1
-  - @pandacss/types@0.3.1
+  - @mfauzanap_pandacss/shared@0.3.1
+  - @mfauzanap_pandacss/types@0.3.1
 
 ## 0.3.0
 
 ### Patch Changes
 
 - Updated dependencies [6d81ee9e]
-  - @pandacss/types@0.3.0
-  - @pandacss/shared@0.3.0
+  - @mfauzanap_pandacss/types@0.3.0
+  - @mfauzanap_pandacss/shared@0.3.0
 
 ## 0.0.2
 
@@ -309,5 +309,5 @@
 
 - Updated dependencies [c308e8be]
 - Updated dependencies [fb40fff2]
-  - @pandacss/types@0.0.2
-  - @pandacss/shared@0.0.2
+  - @mfauzanap_pandacss/types@0.0.2
+  - @mfauzanap_pandacss/shared@0.0.2

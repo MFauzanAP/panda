@@ -1,4 +1,4 @@
-import { colors, quote } from '@pandacss/logger'
+import { colors, quote } from '@mfauzanap_pandacss/logger'
 import { outdent } from 'outdent'
 import type { Context } from './engines'
 

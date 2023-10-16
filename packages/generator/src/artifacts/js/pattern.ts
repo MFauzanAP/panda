@@ -1,4 +1,4 @@
-import { unionType } from '@pandacss/shared'
+import { unionType } from '@mfauzanap_pandacss/shared'
 import { stringify } from 'javascript-stringify'
 import { outdent } from 'outdent'
 import { match } from 'ts-pattern'

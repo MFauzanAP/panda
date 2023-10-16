@@ -1,4 +1,4 @@
-import type { SemanticTokens } from '@pandacss/types'
+import type { SemanticTokens } from '@mfauzanap_pandacss/types'
 import { neutralColors } from './neutral'
 
 export const semanticColors: SemanticTokens['colors'] = {

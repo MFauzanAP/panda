@@ -1,6 +1,6 @@
 import { bench, describe } from 'vitest'
 import { getFixtureProject } from './fixture'
-import type { Config, TSConfig } from '@pandacss/types'
+import type { Config, TSConfig } from '@mfauzanap_pandacss/types'
 
 const run = (code: string, userConfig?: Config, tsconfig?: TSConfig) => {
   const { parse, generator } = getFixtureProject(code, userConfig, tsconfig)

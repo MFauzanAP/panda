@@ -1,4 +1,4 @@
-import { breakpoints } from '@pandacss/fixture'
+import { breakpoints } from '@mfauzanap_pandacss/fixture'
 import postcss from 'postcss'
 import { describe, expect, test } from 'vitest'
 import { Breakpoints } from '../src/breakpoints'

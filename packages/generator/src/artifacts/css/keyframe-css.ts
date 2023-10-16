@@ -1,4 +1,4 @@
-import { toCss } from '@pandacss/core'
+import { toCss } from '@mfauzanap_pandacss/core'
 import postcss from 'postcss'
 import type { Context } from '../../engines'
 

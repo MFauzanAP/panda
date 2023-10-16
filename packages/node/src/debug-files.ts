@@ -1,4 +1,4 @@
-import { colors, logger } from '@pandacss/logger'
+import { colors, logger } from '@mfauzanap_pandacss/logger'
 import type { PandaContext } from './create-context'
 import * as nodePath from 'path'
 

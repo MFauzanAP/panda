@@ -1,4 +1,4 @@
-import { getStaticCss } from '@pandacss/core'
+import { getStaticCss } from '@mfauzanap_pandacss/core'
 import type { Context } from '../../engines'
 
 export const generateStaticCss = (ctx: Context) => {
