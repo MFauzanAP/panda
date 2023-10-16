@@ -30,7 +30,7 @@ writeFileSync(
   const userGenerated = userGeneratedStr.split(',');
   const cssPropertiesStr = "${Array.from(new Set(properties)).join(',')}";
 
-  const allCssProperties = cssPropertiesStr.split(',').concat(userGenerated)
+  const allCssProperties = [...new Set(cssPropertiesStr.split(',').concat(userGenerated))]
 
   const properties = new Map(allCssProperties.map((prop) => [prop, true]))
 
