@@ -8,7 +8,7 @@ description: Customize how Panda works via the `panda.config.ts` file in your pr
 Customize how Panda works via the `panda.config.ts` file in your project.
 
 ```js
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   // your configuration options here...
@@ -21,7 +21,7 @@ export default defineConfig({
 
 **Type**: `string[]`
 
-**Default**: `['@pandacss/preset-base', '@pandacss/preset-panda']`
+**Default**: `['@mfauzanap_pandacss/preset-base', '@mfauzanap_pandacss/preset-panda']`
 
 The set of reusable and shareable configuration presets.
 
@@ -30,7 +30,7 @@ as a set of overrides and extensions.
 
 ```json
 {
-  "presets": ["@pandacss/preset-base", "@pandacss/preset-panda"]
+  "presets": ["@mfauzanap_pandacss/preset-base", "@mfauzanap_pandacss/preset-panda"]
 }
 ```
 
@@ -40,7 +40,7 @@ as a set of overrides and extensions.
 
 **Default**: `false`
 
-Whether to opt-out of the defaults config presets: [`@pandacss/preset-base`, `@pandacss/preset-panda`]
+Whether to opt-out of the defaults config presets: [`@mfauzanap_pandacss/preset-base`, `@mfauzanap_pandacss/preset-panda`]
 
 ```json
 {

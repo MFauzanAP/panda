@@ -8,7 +8,7 @@ import {
   type RawCondition,
   type ResultItem,
   type SystemStyleObject,
-} from '@pandacss/types'
+} from '@mfauzanap_pandacss/types'
 import { CallExpression, Identifier, JsxOpeningElement, JsxSelfClosingElement, Node, SourceFile, ts } from 'ts-morph'
 
 import {
@@ -26,13 +26,13 @@ import {
   type BoxContext,
   type PrimitiveType,
   type Unboxed,
-} from '@pandacss/extractor'
-import { type PandaContext } from '@pandacss/node'
-import { walkObject } from '@pandacss/shared'
-import { type ParserResult } from '@pandacss/parser'
-import { type Token } from '@pandacss/token-dictionary'
+} from '@mfauzanap_pandacss/extractor'
+import { type PandaContext } from '@mfauzanap_pandacss/node'
+import { walkObject } from '@mfauzanap_pandacss/shared'
+import { type ParserResult } from '@mfauzanap_pandacss/parser'
+import { type Token } from '@mfauzanap_pandacss/token-dictionary'
 import { Bool } from 'lil-fp'
-import { type PandaVSCodeSettings } from '@pandacss/extension-shared'
+import { type PandaVSCodeSettings } from '@mfauzanap_pandacss/extension-shared'
 import { match } from 'ts-pattern'
 import { color2kToVsCodeColor } from './color2k-to-vscode-color'
 import { expandTokenFn, extractTokenPaths } from './expand-token-fn'

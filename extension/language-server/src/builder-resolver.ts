@@ -1,4 +1,4 @@
-import { Builder } from '@pandacss/node'
+import { Builder } from '@mfauzanap_pandacss/node'
 import path from 'path'
 
 /**

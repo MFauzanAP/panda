@@ -71,7 +71,7 @@ export const SectionHero = () => {
                 </Link>
               </Stack>
 
-              <CommandPrompt value="npm i -D @pandacss/dev" />
+              <CommandPrompt value="npm i -D @mfauzanap_pandacss/dev" />
             </Stack>
 
             <Image

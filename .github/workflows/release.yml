@@ -50,7 +50,7 @@ jobs:
         with:
           payload: |
             {
-              "package_name": "@pandacss/dev",
+              "package_name": "@mfauzanap_pandacss/dev",
               "changelog_url": "https://github.com/chakra-ui/panda/blob/main/CHANGELOG.md"
             }
         env:

@@ -1,4 +1,4 @@
-import { defineTokens } from '@pandacss/dev'
+import { defineTokens } from '@mfauzanap_pandacss/dev'
 
 const makePrimaryColor = (l: number) => {
   return {

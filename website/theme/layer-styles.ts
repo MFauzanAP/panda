@@ -1,4 +1,4 @@
-import { defineLayerStyles } from '@pandacss/dev'
+import { defineLayerStyles } from '@mfauzanap_pandacss/dev'
 
 export const layerStyles = defineLayerStyles({
   offShadow: {

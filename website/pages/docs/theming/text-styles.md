@@ -22,7 +22,7 @@ Text styles are defined in the `textStyles` property of the theme.
 Here's an example of a text style:
 
 ```js filename="text-styles.ts"
-import { defineTextStyles } from '@pandacss/dev'
+import { defineTextStyles } from '@mfauzanap_pandacss/dev'
 
 export const textStyles = defineTextStyles({
   body: {
@@ -47,7 +47,7 @@ export const textStyles = defineTextStyles({
 To use the text styles, we need to update the `config` object in the `panda.config.ts` file.
 
 ```js filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 import { textStyles } from './text-styles'
 
 export default defineConfig({

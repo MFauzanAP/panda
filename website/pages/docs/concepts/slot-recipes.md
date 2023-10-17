@@ -276,7 +276,7 @@ The config slot recipe takes the following additional properties:
 To define a config slot recipe, import the `defineSlotRecipe` function
 
 ```jsx filename="checkbox.recipe.ts"
-import { defineSlotRecipe } from '@pandacss/dev'
+import { defineSlotRecipe } from '@mfauzanap_pandacss/dev'
 
 export const checkboxRecipe = defineSlotRecipe({
   className: 'checkbox',
@@ -310,7 +310,7 @@ export const checkboxRecipe = defineSlotRecipe({
 To add the recipe to the config, you’d need to add it to the `slotRecipes` property of the `theme`
 
 ```jsx filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 import { checkboxRecipe } from './checkbox.recipe'
 
 export default defineConfig({

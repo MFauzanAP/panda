@@ -19,7 +19,7 @@ A design token consists of the following properties:
 Tokens are defined in the `panda.config` file under the `theme` key
 
 ```js filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -59,7 +59,7 @@ function App() {
 You can also add an optional description to your tokens. This will be used in the autogenerate token documentation.
 
 ```js {8}
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -87,7 +87,7 @@ For example, assuming we've defined the following tokens:
 - `danger` and `success` are semantic tokens that reference the `red` and `green` tokens.
 
 ```js
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -112,7 +112,7 @@ Semantic tokens can also be changed based on the [conditions](/docs/concepts/con
 For example, if you want a color to change automatically based on light or dark mode.
 
 ```js
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   // ...
@@ -140,7 +140,7 @@ Tokens can be nested to create a hierarchy of tokens. This is useful when you wa
 > Tip: You can use the `DEFAULT` key to define the default value of a nested token.
 
 ```js
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   // ...
@@ -555,7 +555,7 @@ To help defining tokens in a type-safe way, you can use the following helpers:
 ### `defineTokens`
 
 ```ts
-import { defineTokens } from '@pandacss/dev'
+import { defineTokens } from '@mfauzanap_pandacss/dev'
 
 const theme = {
   tokens: defineTokens({
@@ -569,7 +569,7 @@ const theme = {
 You can also use this function to define tokens in a separate file:
 
 ```ts filename="tokens/colors.ts"
-import { defineTokens } from '@pandacss/dev'
+import { defineTokens } from '@mfauzanap_pandacss/dev'
 
 export const colors = defineTokens.colors({
   primary: { value: '#ff0000' }
@@ -579,7 +579,7 @@ export const colors = defineTokens.colors({
 ### `defineSemanticTokens`
 
 ```ts
-import { defineSemanticTokens } from '@pandacss/dev'
+import { defineSemanticTokens } from '@mfauzanap_pandacss/dev'
 
 const theme = {
   semanticTokens: defineSemanticTokens({
@@ -595,7 +595,7 @@ const theme = {
 You can also use this function to define tokens in a separate file:
 
 ```ts filename="tokens/colors.semantic.ts"
-import { defineSemanticTokens } from '@pandacss/dev'
+import { defineSemanticTokens } from '@mfauzanap_pandacss/dev'
 
 export const colors = defineSemanticTokens.colors({
   primary: {

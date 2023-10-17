@@ -1,6 +1,6 @@
 {
   "publisher": "chakra-ui",
-  "name": "@pandacss/extension-shared",
+  "name": "@mfauzanap_pandacss/extension-shared",
   "displayName": "🐼 Panda CSS",
   "description": "Shared utilities between extension client & server",
   "version": "0.15.5",
@@ -29,6 +29,6 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "@pandacss/shared": "workspace:^"
+    "@mfauzanap_pandacss/shared": "workspace:^"
   }
 }

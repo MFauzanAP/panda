@@ -19,7 +19,7 @@
     "solid-js": "1.7.11"
   },
   "devDependencies": {
-    "@pandacss/dev": "workspace:*",
-    "@pandacss/astro": "workspace:*"
+    "@mfauzanap_pandacss/dev": "workspace:*",
+    "@mfauzanap_pandacss/astro": "workspace:*"
   }
 }

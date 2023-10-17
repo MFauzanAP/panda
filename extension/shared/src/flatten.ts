@@ -1,4 +1,4 @@
-import { walkObject } from '@pandacss/shared'
+import { walkObject } from '@mfauzanap_pandacss/shared'
 
 type Dict = Record<string, any>
 

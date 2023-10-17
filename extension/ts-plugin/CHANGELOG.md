@@ -1,4 +1,4 @@
-# @pandacss/ts-plugin
+# @mfauzanap_pandacss/ts-plugin
 
 ## 0.15.5
 
@@ -48,25 +48,25 @@
 
 ### Patch Changes
 
-- @pandacss/extension-shared@0.5.0
+- @mfauzanap_pandacss/extension-shared@0.5.0
 
 ## 0.4.0
 
 ### Patch Changes
 
-- @pandacss/extension-shared@0.4.0
+- @mfauzanap_pandacss/extension-shared@0.4.0
 
 ## 0.3.2
 
 ### Patch Changes
 
-- @pandacss/extension-shared@0.3.2
+- @mfauzanap_pandacss/extension-shared@0.3.2
 
 ## 0.3.1
 
 ### Patch Changes
 
-- @pandacss/extension-shared@0.3.1
+- @mfauzanap_pandacss/extension-shared@0.3.1
 
 ## 0.3.0
 
@@ -74,4 +74,4 @@
 
 - 02f4daf7: Publish extension packages
 - Updated dependencies [02f4daf7]
-  - @pandacss/extension-shared@0.3.0
+  - @mfauzanap_pandacss/extension-shared@0.3.0

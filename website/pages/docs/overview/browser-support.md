@@ -42,7 +42,7 @@ Here is an example of a `postcss.config.js` file that uses these polyfills:
 ```js
 module.exports = {
   plugins: [
-    '@pandacss/dev/postcss',
+    '@mfauzanap_pandacss/dev/postcss',
     'autoprefixer',
     '@csstools/postcss-cascade-layers'
   ]

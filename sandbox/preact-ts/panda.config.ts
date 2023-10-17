@@ -1,4 +1,4 @@
-import { defineConfig, defineSlotRecipe } from '@pandacss/dev'
+import { defineConfig, defineSlotRecipe } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   preflight: true,

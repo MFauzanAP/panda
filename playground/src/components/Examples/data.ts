@@ -165,7 +165,7 @@ export const EXAMPLES = [
           },
         },
       })`,
-      `import { defineConfig, defineRecipe } from '@pandacss/dev'`,
+      `import { defineConfig, defineRecipe } from '@mfauzanap_pandacss/dev'`,
     ),
   },
   {
@@ -217,7 +217,7 @@ export const EXAMPLES = [
           },
         },
       });`,
-      `import { defineConfig, defineSlotRecipe } from '@pandacss/dev'`,
+      `import { defineConfig, defineSlotRecipe } from '@mfauzanap_pandacss/dev'`,
     ),
   },
   {

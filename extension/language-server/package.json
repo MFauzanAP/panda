@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/language-server",
+  "name": "@mfauzanap_pandacss/language-server",
   "displayName": "Panda CSS",
   "description": "🐼 The official Panda language server",
   "version": "0.15.5",
@@ -9,8 +9,8 @@
     "directory": "packages/extension/language-server"
   },
   "scripts": {
-    "build": "tsup src/index.ts --format cjs --minify -d dist --clean --shims --external esbuild --external @pandacss/preset-base --external @pandacss/preset-panda",
-    "dev": "tsup src/index.ts --watch --format cjs -d dist --shims --external esbuild --external @pandacss/preset-base --external @pandacss/preset-panda",
+    "build": "tsup src/index.ts --format cjs --minify -d dist --clean --shims --external esbuild --external @mfauzanap_pandacss/preset-base --external @mfauzanap_pandacss/preset-panda",
+    "dev": "tsup src/index.ts --watch --format cjs -d dist --shims --external esbuild --external @mfauzanap_pandacss/preset-base --external @mfauzanap_pandacss/preset-panda",
     "clean": "rimraf dist",
     "typecheck": "tsc --noEmit"
   },
@@ -21,14 +21,14 @@
     "dist"
   ],
   "devDependencies": {
-    "@pandacss/core": "workspace:*",
-    "@pandacss/extension-shared": "workspace:*",
-    "@pandacss/extractor": "workspace:*",
-    "@pandacss/node": "workspace:*",
-    "@pandacss/parser": "workspace:*",
-    "@pandacss/shared": "workspace:*",
-    "@pandacss/token-dictionary": "workspace:*",
-    "@pandacss/types": "workspace:*",
+    "@mfauzanap_pandacss/core": "workspace:*",
+    "@mfauzanap_pandacss/extension-shared": "workspace:*",
+    "@mfauzanap_pandacss/extractor": "workspace:*",
+    "@mfauzanap_pandacss/node": "workspace:*",
+    "@mfauzanap_pandacss/parser": "workspace:*",
+    "@mfauzanap_pandacss/shared": "workspace:*",
+    "@mfauzanap_pandacss/token-dictionary": "workspace:*",
+    "@mfauzanap_pandacss/types": "workspace:*",
     "@types/base-64": "^1.0.0",
     "@types/node": "20.4.5",
     "@types/utf8": "^3.0.1",

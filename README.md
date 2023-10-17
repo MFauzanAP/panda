@@ -41,7 +41,7 @@ Visit our [official documentation](https://panda-css.com/).
 The **recommended** way to install the latest version of Panda is by running the command below:
 
 ```bash
-npm i -D @pandacss/dev
+npm i -D @mfauzanap_pandacss/dev
 ```
 
 To scaffold the panda config and postcss

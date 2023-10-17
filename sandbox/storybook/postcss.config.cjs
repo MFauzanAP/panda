@@ -1,3 +1,3 @@
 module.exports = {
-  plugins: [require('@pandacss/dev/postcss')],
+  plugins: [require('@mfauzanap_pandacss/dev/postcss')],
 }

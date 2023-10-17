@@ -1,4 +1,4 @@
-import { defineConfig, defineRecipe } from '@pandacss/dev'
+import { defineConfig, defineRecipe } from '@mfauzanap_pandacss/dev'
 
 const someRecipe = defineRecipe({
   className: 'some-recipe',

@@ -143,7 +143,7 @@ const Button = styled('button', {
 - **Selector classes** by defining the recipe in the `panda.config.ts` file. This approach only generates the classes and css for the variants that are used in the project.
 
 ```ts
-import { defineConfig, defineRecipe } from '@pandacss/dev'
+import { defineConfig, defineRecipe } from '@mfauzanap_pandacss/dev'
 
 const buttonStyle = defineRecipe({
   className: 'button',
@@ -209,7 +209,7 @@ const styles = css({
 In Panda, you configure breakpoints in the `theme.breakpoints` key of the `panda.config` function
 
 ```ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -266,7 +266,7 @@ const styles = css({
 In Panda, tokens are defined in the `theme` key of the `panda.config` function.
 
 ```ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -331,7 +331,7 @@ const darkTheme = createTheme({
 In Panda, themes are designed as semantic tokens. You can define the semantic tokens in the `semanticTokens` key of the `panda.config` function.
 
 ```ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -399,7 +399,7 @@ const Button = styled('button', {
 In Panda, you define keyframes in the `theme.keyframes` key of the `panda.config` function.
 
 ```ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -446,7 +446,7 @@ You can also create custom utilites using the `utilities` key in the `panda.conf
 The utilities API allows you define the connected token scale, generated className, and transform function.
 
 ```ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   utilities: {
@@ -500,7 +500,7 @@ In Panda, you define the global styles in the `panda.config.ts` using the `globa
 > The styles be injected automatically under the `base` cascade layer via PostCSS
 
 ```ts {3-5}
-import { defineConfig, defineGlobalStyles } from '@pandacss/dev'
+import { defineConfig, defineGlobalStyles } from '@mfauzanap_pandacss/dev'
 
 const globalCss = defineGlobalStyles({
   '*': { margin: 0, padding: 0 }

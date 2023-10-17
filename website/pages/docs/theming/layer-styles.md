@@ -20,7 +20,7 @@ Layer styles are defined in the `layerStyles` property of the theme.
 Here's an example of a layer style:
 
 ```js filename="layer-styles.ts"
-import { defineLayerStyles } from '@pandacss/dev'
+import { defineLayerStyles } from '@mfauzanap_pandacss/dev'
 
 const layerStyles = defineLayerStyles({
   container: {
@@ -41,7 +41,7 @@ const layerStyles = defineLayerStyles({
 To use the layer styles, we need to update the `config` object in the `panda.config.ts` file.
 
 ```js filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 import { layerStyles } from './layer-styles'
 
 export default defineConfig({

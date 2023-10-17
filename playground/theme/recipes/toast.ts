@@ -1,5 +1,5 @@
 import { toastAnatomy } from '@ark-ui/react'
-import { defineParts, defineRecipe } from '@pandacss/dev'
+import { defineParts, defineRecipe } from '@mfauzanap_pandacss/dev'
 
 const parts = defineParts({
   ...toastAnatomy.build(),

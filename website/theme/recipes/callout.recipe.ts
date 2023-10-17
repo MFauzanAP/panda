@@ -1,5 +1,5 @@
 import { createAnatomy } from '@ark-ui/react'
-import { defineParts, defineRecipe } from '@pandacss/dev'
+import { defineParts, defineRecipe } from '@mfauzanap_pandacss/dev'
 
 const anatomy = createAnatomy('callout', ['root', 'icon', 'content'])
 

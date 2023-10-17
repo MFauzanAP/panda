@@ -1,4 +1,4 @@
-import { defineRecipe } from '@pandacss/dev'
+import { defineRecipe } from '@mfauzanap_pandacss/dev'
 
 export const button = defineRecipe({
   className: 'button',

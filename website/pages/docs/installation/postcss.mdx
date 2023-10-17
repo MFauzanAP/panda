@@ -15,25 +15,25 @@ Install panda and create your `panda.config.ts` file.
 <Tabs items={['pnpm', 'npm', 'yarn', 'bun']}>
   <Tab>
     ```bash
-    pnpm install -D @pandacss/dev postcss
+    pnpm install -D @mfauzanap_pandacss/dev postcss
     pnpm panda init -p
     ```
   </Tab>
   <Tab>
     ```bash
-    npm install -D @pandacss/dev postcss
+    npm install -D @mfauzanap_pandacss/dev postcss
     npx panda init -p
     ```
   </Tab>
   <Tab>
     ```bash
-    yarn add -D @pandacss/dev postcss
+    yarn add -D @mfauzanap_pandacss/dev postcss
     yarn panda init -p
     ```
   </Tab>
   <Tab>
     ```bash
-    bun add -D @pandacss/dev postcss
+    bun add -D @mfauzanap_pandacss/dev postcss
     bun panda init -p
     ```
   </Tab>
@@ -46,7 +46,7 @@ Add panda to your `postcss.config.cjs` file, or wherever PostCSS is configured i
 ```js
 module.exports = {
   plugins: {
-    '@pandacss/dev/postcss': {}
+    '@mfauzanap_pandacss/dev/postcss': {}
   }
 }
 ```
@@ -56,7 +56,7 @@ module.exports = {
 Add your panda config to your `panda.config.js` file, or wherver panda is configured in your project.
 
 ```js {5}
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   preflight: true,

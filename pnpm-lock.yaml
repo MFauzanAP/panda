@@ -70,28 +70,28 @@ importers:
         specifier: ^3.3.1
         version: 3.3.1
     devDependencies:
-      '@pandacss/core':
+      '@mfauzanap_pandacss/core':
         specifier: workspace:*
         version: link:../../packages/core
-      '@pandacss/extension-shared':
+      '@mfauzanap_pandacss/extension-shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/extractor':
+      '@mfauzanap_pandacss/extractor':
         specifier: workspace:*
         version: link:../../packages/extractor
-      '@pandacss/node':
+      '@mfauzanap_pandacss/node':
         specifier: workspace:*
         version: link:../../packages/node
-      '@pandacss/parser':
+      '@mfauzanap_pandacss/parser':
         specifier: workspace:*
         version: link:../../packages/parser
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../../packages/shared
-      '@pandacss/token-dictionary':
+      '@mfauzanap_pandacss/token-dictionary':
         specifier: workspace:*
         version: link:../../packages/token-dictionary
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../../packages/types
       '@types/base-64':
@@ -148,7 +148,7 @@ importers:
 
   extension/shared:
     dependencies:
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:^
         version: link:../../packages/shared
     devDependencies:
@@ -161,7 +161,7 @@ importers:
 
   extension/ts-plugin:
     devDependencies:
-      '@pandacss/extension-shared':
+      '@mfauzanap_pandacss/extension-shared':
         specifier: workspace:^
         version: link:../shared
       typescript:
@@ -170,29 +170,29 @@ importers:
 
   extension/vscode:
     dependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
-      '@pandacss/preset-base':
+      '@mfauzanap_pandacss/preset-base':
         specifier: workspace:*
         version: link:../../packages/preset-base
-      '@pandacss/preset-panda':
+      '@mfauzanap_pandacss/preset-panda':
         specifier: workspace:*
         version: link:../../packages/preset-panda
-      '@pandacss/ts-plugin':
+      '@mfauzanap_pandacss/ts-plugin':
         specifier: workspace:*
         version: link:../ts-plugin
       pathe:
         specifier: 1.1.1
         version: 1.1.1
     devDependencies:
-      '@pandacss/extension-shared':
+      '@mfauzanap_pandacss/extension-shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/language-server':
+      '@mfauzanap_pandacss/language-server':
         specifier: workspace:*
         version: link:../language-server
-      '@pandacss/vsix-builder':
+      '@mfauzanap_pandacss/vsix-builder':
         specifier: workspace:*
         version: link:../vsix-builder
       '@pnpm/find-workspace-dir':
@@ -346,7 +346,7 @@ importers:
 
   packages/astro:
     dependencies:
-      '@pandacss/postcss':
+      '@mfauzanap_pandacss/postcss':
         specifier: workspace:*
         version: link:../postcss
       autoprefixer:
@@ -371,34 +371,34 @@ importers:
       '@clack/prompts':
         specifier: ^0.6.3
         version: 0.6.3
-      '@pandacss/config':
+      '@mfauzanap_pandacss/config':
         specifier: workspace:*
         version: link:../config
-      '@pandacss/error':
+      '@mfauzanap_pandacss/error':
         specifier: workspace:*
         version: link:../error
-      '@pandacss/logger':
+      '@mfauzanap_pandacss/logger':
         specifier: workspace:*
         version: link:../logger
-      '@pandacss/node':
+      '@mfauzanap_pandacss/node':
         specifier: workspace:*
         version: link:../node
-      '@pandacss/postcss':
+      '@mfauzanap_pandacss/postcss':
         specifier: workspace:*
         version: link:../postcss
-      '@pandacss/preset-panda':
+      '@mfauzanap_pandacss/preset-panda':
         specifier: workspace:*
         version: link:../preset-panda
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/studio':
+      '@mfauzanap_pandacss/studio':
         specifier: workspace:*
         version: link:../studio
-      '@pandacss/token-dictionary':
+      '@mfauzanap_pandacss/token-dictionary':
         specifier: workspace:*
         version: link:../token-dictionary
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       cac:
@@ -423,19 +423,19 @@ importers:
 
   packages/config:
     dependencies:
-      '@pandacss/error':
+      '@mfauzanap_pandacss/error':
         specifier: workspace:*
         version: link:../error
-      '@pandacss/logger':
+      '@mfauzanap_pandacss/logger':
         specifier: workspace:*
         version: link:../logger
-      '@pandacss/preset-base':
+      '@mfauzanap_pandacss/preset-base':
         specifier: workspace:*
         version: link:../preset-base
-      '@pandacss/preset-panda':
+      '@mfauzanap_pandacss/preset-panda':
         specifier: workspace:*
         version: link:../preset-panda
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       bundle-n-require:
@@ -460,55 +460,55 @@ importers:
 
   packages/config/__tests__/samples/cjs:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/cts:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/js:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/mjs:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/mts:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/nested-files:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/ts:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/ts-import-map:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/ts-import-map-one-source:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
@@ -518,31 +518,31 @@ importers:
 
   packages/config/__tests__/samples/with-preset:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/config/__tests__/samples/with-tsconfig-paths:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../../../cli
 
   packages/core:
     dependencies:
-      '@pandacss/error':
+      '@mfauzanap_pandacss/error':
         specifier: workspace:*
         version: link:../error
-      '@pandacss/logger':
+      '@mfauzanap_pandacss/logger':
         specifier: workspace:*
         version: link:../logger
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/token-dictionary':
+      '@mfauzanap_pandacss/token-dictionary':
         specifier: workspace:*
         version: link:../token-dictionary
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       autoprefixer:
@@ -582,7 +582,7 @@ importers:
         specifier: 5.0.5
         version: 5.0.5
     devDependencies:
-      '@pandacss/fixture':
+      '@mfauzanap_pandacss/fixture':
         specifier: workspace:*
         version: link:../fixture
       '@types/lodash.merge':
@@ -608,34 +608,34 @@ importers:
 
   packages/fixture:
     dependencies:
-      '@pandacss/preset-base':
+      '@mfauzanap_pandacss/preset-base':
         specifier: workspace:*
         version: link:../preset-base
-      '@pandacss/preset-panda':
+      '@mfauzanap_pandacss/preset-panda':
         specifier: workspace:*
         version: link:../preset-panda
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
 
   packages/generator:
     dependencies:
-      '@pandacss/core':
+      '@mfauzanap_pandacss/core':
         specifier: workspace:*
         version: link:../core
-      '@pandacss/is-valid-prop':
+      '@mfauzanap_pandacss/is-valid-prop':
         specifier: workspace:*
         version: link:../is-valid-prop
-      '@pandacss/logger':
+      '@mfauzanap_pandacss/logger':
         specifier: workspace:*
         version: link:../logger
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/token-dictionary':
+      '@mfauzanap_pandacss/token-dictionary':
         specifier: workspace:*
         version: link:../token-dictionary
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       javascript-stringify:
@@ -657,7 +657,7 @@ importers:
         specifier: 5.0.5
         version: 5.0.5
     devDependencies:
-      '@pandacss/fixture':
+      '@mfauzanap_pandacss/fixture':
         specifier: workspace:*
         version: link:../fixture
       '@types/pluralize':
@@ -688,37 +688,37 @@ importers:
 
   packages/node:
     dependencies:
-      '@pandacss/config':
+      '@mfauzanap_pandacss/config':
         specifier: workspace:*
         version: link:../config
-      '@pandacss/core':
+      '@mfauzanap_pandacss/core':
         specifier: workspace:*
         version: link:../core
-      '@pandacss/error':
+      '@mfauzanap_pandacss/error':
         specifier: workspace:*
         version: link:../error
-      '@pandacss/extractor':
+      '@mfauzanap_pandacss/extractor':
         specifier: workspace:*
         version: link:../extractor
-      '@pandacss/generator':
+      '@mfauzanap_pandacss/generator':
         specifier: workspace:*
         version: link:../generator
-      '@pandacss/is-valid-prop':
+      '@mfauzanap_pandacss/is-valid-prop':
         specifier: workspace:*
         version: link:../is-valid-prop
-      '@pandacss/logger':
+      '@mfauzanap_pandacss/logger':
         specifier: workspace:*
         version: link:../logger
-      '@pandacss/parser':
+      '@mfauzanap_pandacss/parser':
         specifier: workspace:*
         version: link:../parser
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/token-dictionary':
+      '@mfauzanap_pandacss/token-dictionary':
         specifier: workspace:*
         version: link:../token-dictionary
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       chokidar:
@@ -782,7 +782,7 @@ importers:
         specifier: ^2.1.2
         version: 2.1.2(typescript@5.2.2)
     devDependencies:
-      '@pandacss/fixture':
+      '@mfauzanap_pandacss/fixture':
         specifier: workspace:*
         version: link:../fixture
       '@types/fs-extra':
@@ -806,22 +806,22 @@ importers:
 
   packages/parser:
     dependencies:
-      '@pandacss/config':
+      '@mfauzanap_pandacss/config':
         specifier: workspace:^
         version: link:../config
-      '@pandacss/extractor':
+      '@mfauzanap_pandacss/extractor':
         specifier: workspace:*
         version: link:../extractor
-      '@pandacss/is-valid-prop':
+      '@mfauzanap_pandacss/is-valid-prop':
         specifier: workspace:*
         version: link:../is-valid-prop
-      '@pandacss/logger':
+      '@mfauzanap_pandacss/logger':
         specifier: workspace:*
         version: link:../logger
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       '@vue/compiler-sfc':
@@ -840,10 +840,10 @@ importers:
         specifier: 5.0.5
         version: 5.0.5
     devDependencies:
-      '@pandacss/fixture':
+      '@mfauzanap_pandacss/fixture':
         specifier: workspace:*
         version: link:../fixture
-      '@pandacss/generator':
+      '@mfauzanap_pandacss/generator':
         specifier: workspace:*
         version: link:../generator
       hookable:
@@ -852,7 +852,7 @@ importers:
 
   packages/postcss:
     dependencies:
-      '@pandacss/node':
+      '@mfauzanap_pandacss/node':
         specifier: workspace:*
         version: link:../node
       postcss:
@@ -861,7 +861,7 @@ importers:
 
   packages/preset-atlaskit:
     dependencies:
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
     devDependencies:
@@ -871,13 +871,13 @@ importers:
 
   packages/preset-base:
     dependencies:
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
 
   packages/preset-panda:
     dependencies:
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
 
@@ -891,22 +891,22 @@ importers:
       '@astrojs/react':
         specifier: 2.2.1
         version: 2.2.1(@types/react-dom@18.2.7)(@types/react@18.2.22)(react-dom@18.2.0)(react@18.2.0)
-      '@pandacss/config':
+      '@mfauzanap_pandacss/config':
         specifier: workspace:*
         version: link:../config
-      '@pandacss/logger':
+      '@mfauzanap_pandacss/logger':
         specifier: workspace:*
         version: link:../logger
-      '@pandacss/node':
+      '@mfauzanap_pandacss/node':
         specifier: workspace:*
         version: link:../node
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/token-dictionary':
+      '@mfauzanap_pandacss/token-dictionary':
         specifier: workspace:*
         version: link:../token-dictionary
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       astro:
@@ -925,7 +925,7 @@ importers:
         specifier: 4.4.11
         version: 4.4.11(@types/node@20.4.5)
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../cli
       '@types/react':
@@ -943,23 +943,23 @@ importers:
 
   packages/token-dictionary:
     dependencies:
-      '@pandacss/shared':
+      '@mfauzanap_pandacss/shared':
         specifier: workspace:*
         version: link:../shared
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../types
       ts-pattern:
         specifier: 5.0.5
         version: 5.0.5
     devDependencies:
-      '@pandacss/fixture':
+      '@mfauzanap_pandacss/fixture':
         specifier: workspace:*
         version: link:../fixture
 
   packages/types:
     devDependencies:
-      '@pandacss/extractor':
+      '@mfauzanap_pandacss/extractor':
         specifier: workspace:*
         version: link:../extractor
       chokidar-cli:
@@ -992,19 +992,19 @@ importers:
       '@monaco-editor/react':
         specifier: 4.5.2
         version: 4.5.2(monaco-editor@0.40.0)(react-dom@18.2.0)(react@18.2.0)
-      '@pandacss/config':
+      '@mfauzanap_pandacss/config':
         specifier: workspace:*
         version: link:../packages/config
-      '@pandacss/generator':
+      '@mfauzanap_pandacss/generator':
         specifier: workspace:*
         version: link:../packages/generator
-      '@pandacss/parser':
+      '@mfauzanap_pandacss/parser':
         specifier: workspace:*
         version: link:../packages/parser
-      '@pandacss/preset-base':
+      '@mfauzanap_pandacss/preset-base':
         specifier: workspace:*
         version: link:../packages/preset-base
-      '@pandacss/preset-panda':
+      '@mfauzanap_pandacss/preset-panda':
         specifier: workspace:*
         version: link:../packages/preset-panda
       '@prisma/client':
@@ -1077,10 +1077,10 @@ importers:
         specifier: 3.21.4
         version: 3.21.4
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../packages/cli
-      '@pandacss/types':
+      '@mfauzanap_pandacss/types':
         specifier: workspace:*
         version: link:../packages/types
       '@types/node':
@@ -1114,16 +1114,16 @@ importers:
         specifier: 1.7.11
         version: 1.7.11
     devDependencies:
-      '@pandacss/astro':
+      '@mfauzanap_pandacss/astro':
         specifier: workspace:*
         version: link:../../packages/astro
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
 
   sandbox/codegen:
     dependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../packages/cli
       react:
@@ -1214,7 +1214,7 @@ importers:
 
   sandbox/gatsby-ts:
     dependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       gatsby:
@@ -1248,7 +1248,7 @@ importers:
 
   sandbox/next-js-app:
     dependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       '@types/node':
@@ -1281,7 +1281,7 @@ importers:
 
   sandbox/next-js-pages:
     dependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       '@types/node':
@@ -1314,7 +1314,7 @@ importers:
 
   sandbox/nuxt:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       nuxt:
@@ -1330,7 +1330,7 @@ importers:
         specifier: ^10.16.0
         version: 10.16.0
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       '@preact/preset-vite':
@@ -1351,7 +1351,7 @@ importers:
       '@builder.io/qwik-city':
         specifier: ^1.2.6
         version: 1.2.6
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       '@types/eslint':
@@ -1418,7 +1418,7 @@ importers:
         specifier: ^0.5.21
         version: 0.5.21
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:^
         version: link:../../packages/cli
       '@remix-run/dev':
@@ -1452,7 +1452,7 @@ importers:
         specifier: ^1.7.8
         version: 1.7.8
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       typescript:
@@ -1477,7 +1477,7 @@ importers:
       '@babel/core':
         specifier: ^7.22.9
         version: 7.22.9
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       '@storybook/addon-actions':
@@ -1513,7 +1513,7 @@ importers:
 
   sandbox/svelte:
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       '@sveltejs/adapter-auto':
@@ -1580,7 +1580,7 @@ importers:
         specifier: ^18.2.0
         version: 18.2.0(react@18.2.0)
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../../packages/cli
       '@types/react':
@@ -1613,10 +1613,10 @@ importers:
       '@ark-ui/react':
         specifier: 0.9.0
         version: 0.9.0(@internationalized/date@3.5.0)(react-dom@18.2.0)(react@18.2.0)
-      '@pandacss/preset-panda':
+      '@mfauzanap_pandacss/preset-panda':
         specifier: workspace:*
         version: link:../packages/preset-panda
-      '@pandacss/token-dictionary':
+      '@mfauzanap_pandacss/token-dictionary':
         specifier: workspace:*
         version: link:../packages/token-dictionary
       bright:
@@ -1668,7 +1668,7 @@ importers:
         specifier: ^3.21.4
         version: 3.21.4
     devDependencies:
-      '@pandacss/dev':
+      '@mfauzanap_pandacss/dev':
         specifier: workspace:*
         version: link:../packages/cli
       '@types/react':

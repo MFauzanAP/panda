@@ -303,7 +303,7 @@ The config recipe takes the following additional properties:
 To define a config recipe, import the `defineRecipe` helper function
 
 ```jsx filename="button.recipe.ts"
-import { defineRecipe } from '@pandacss/dev'
+import { defineRecipe } from '@mfauzanap_pandacss/dev'
 
 export const buttonRecipe = defineRecipe({
   className: 'button',
@@ -338,7 +338,7 @@ export const buttonRecipe = defineRecipe({
 To add the recipe to the config, you’d need to add it to the `theme.recipes` object.
 
 ```jsx filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 import { buttonRecipe } from './button.recipe'
 
 export default defineConfig({
@@ -479,7 +479,7 @@ We recommend that you use the recipe functions in most cases, in design systems 
 To track the usage of the recipes in these cases, you'll need to add the `jsx` hint for the recipe config
 
 ```js {12} filename="button.recipe.ts"
-import { defineRecipe } from '@pandacss/dev'
+import { defineRecipe } from '@mfauzanap_pandacss/dev'
 
 const button = defineRecipe({
   base: {

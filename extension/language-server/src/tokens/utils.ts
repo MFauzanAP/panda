@@ -1,12 +1,12 @@
-import { box, type NodeRange } from '@pandacss/extractor'
+import { box, type NodeRange } from '@mfauzanap_pandacss/extractor'
 import { Bool } from 'lil-fp'
 import { Range } from 'vscode-languageserver'
 
-import { type SystemStyleObject } from '@pandacss/types'
+import { type SystemStyleObject } from '@mfauzanap_pandacss/types'
 
-import { AtomicRule, optimizeCss } from '@pandacss/core'
-import { type PandaContext } from '@pandacss/node'
-import { toPx } from '@pandacss/shared'
+import { AtomicRule, optimizeCss } from '@mfauzanap_pandacss/core'
+import { type PandaContext } from '@mfauzanap_pandacss/node'
+import { toPx } from '@mfauzanap_pandacss/shared'
 import * as base64 from 'base-64'
 
 import parserCSS from 'prettier/parser-postcss'
@@ -14,8 +14,8 @@ import prettier from 'prettier/standalone'
 import { match } from 'ts-pattern'
 import * as utf8 from 'utf8'
 
-import { type PandaVSCodeSettings } from '@pandacss/extension-shared'
-import { type Token } from '@pandacss/token-dictionary'
+import { type PandaVSCodeSettings } from '@mfauzanap_pandacss/extension-shared'
+import { type Token } from '@mfauzanap_pandacss/token-dictionary'
 
 export const isObjectLike = Bool.or(box.isObject, box.isMap)
 

@@ -1,4 +1,4 @@
-import { defineParts, defineRecipe } from '@pandacss/dev'
+import { defineParts, defineRecipe } from '@mfauzanap_pandacss/dev'
 import { segmentGroupAnatomy } from '@ark-ui/react'
 
 const parts = defineParts(segmentGroupAnatomy.build())

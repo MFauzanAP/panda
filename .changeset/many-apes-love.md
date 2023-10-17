@@ -1,7 +1,7 @@
 ---
-'@pandacss/generator': minor
-'@pandacss/node': minor
-'@pandacss/dev': minor
+'@mfauzanap_pandacss/generator': minor
+'@mfauzanap_pandacss/node': minor
+'@mfauzanap_pandacss/dev': minor
 ---
 
 ## --minimal flag

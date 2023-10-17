@@ -1,4 +1,4 @@
-# @pandacss/language-server
+# @mfauzanap_pandacss/language-server
 
 ## 0.15.5
 

@@ -1,6 +1,6 @@
 module.exports = {
   plugins: {
     autoprefixer: {},
-    '@pandacss/dev/postcss': {},
+    '@mfauzanap_pandacss/dev/postcss': {},
   },
 }

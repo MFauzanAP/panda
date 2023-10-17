@@ -1,5 +1,5 @@
-import type { Config, Preset } from '@pandacss/types'
-import { mergeConfigs } from '@pandacss/config/merge'
+import type { Config, Preset } from '@mfauzanap_pandacss/types'
+import { mergeConfigs } from '@mfauzanap_pandacss/config/merge'
 
 type Extendable<T> = T & { extend?: T }
 type ExtendableConfig = Extendable<Config>

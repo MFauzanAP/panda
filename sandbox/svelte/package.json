@@ -16,7 +16,7 @@
     "css:dev": "PANDA_DEBUG=file:* panda --watch"
   },
   "devDependencies": {
-    "@pandacss/dev": "workspace:*",
+    "@mfauzanap_pandacss/dev": "workspace:*",
     "@sveltejs/adapter-auto": "^2.1.0",
     "@sveltejs/kit": "^1.22.4",
     "@typescript-eslint/eslint-plugin": "^6.2.1",

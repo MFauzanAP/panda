@@ -1,4 +1,4 @@
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 import { tokens } from './theme/tokens'
 import { semanticTokens } from './theme/semantic-tokens'

@@ -1,4 +1,4 @@
-import { defineTokens } from '@pandacss/dev'
+import { defineTokens } from '@mfauzanap_pandacss/dev'
 import { colors } from './colors'
 
 export const tokens = defineTokens({

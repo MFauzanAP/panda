@@ -92,25 +92,25 @@ Install panda and create your `panda.config.ts` file.
 <Tabs items={['pnpm', 'npm', 'yarn', 'bun']}>
   <Tab>
     ```bash
-    pnpm install -D @pandacss/dev
+    pnpm install -D @mfauzanap_pandacss/dev
     pnpm panda init --postcss
     ```
   </Tab>
   <Tab>
     ```bash
-    npm install -D @pandacss/dev
+    npm install -D @mfauzanap_pandacss/dev
     npx panda init --postcss
     ```
   </Tab>
   <Tab>
     ```bash
-    yarn add -D @pandacss/dev
+    yarn add -D @mfauzanap_pandacss/dev
     yarn panda init --postcss
     ```
   </Tab>
   <Tab>
     ```bash
-    bun add -D @pandacss/dev
+    bun add -D @mfauzanap_pandacss/dev
     bun panda init --postcss
     ```
   </Tab>
@@ -140,7 +140,7 @@ Open your `package.json` file and update the `scripts` section as follows:
 Make sure that all of the paths of your Vue components are included in the `include` section of the `panda.config.ts` file.
 
 ```js {8, 17} filename="panda.config.ts"
-import { defineConfig } from "@pandacss/dev"
+import { defineConfig } from "@mfauzanap_pandacss/dev"
 
 export default defineConfig({
  // Whether to use css reset

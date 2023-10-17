@@ -1,4 +1,4 @@
-# @pandacss/vsix-builder
+# @mfauzanap_pandacss/vsix-builder
 
 ## 0.15.5
 

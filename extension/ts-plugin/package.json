@@ -1,5 +1,5 @@
 {
-  "name": "@pandacss/ts-plugin",
+  "name": "@mfauzanap_pandacss/ts-plugin",
   "displayName": "🐼 Panda CSS",
   "description": "The official Panda plugin for VS Code",
   "version": "0.15.5",
@@ -22,7 +22,7 @@
     "dev": "pnpm build-fast --watch"
   },
   "devDependencies": {
-    "@pandacss/extension-shared": "workspace:^",
+    "@mfauzanap_pandacss/extension-shared": "workspace:^",
     "typescript": "^5.2.2"
   }
 }

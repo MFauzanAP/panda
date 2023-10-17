@@ -1,6 +1,6 @@
 import solidJs from '@astrojs/solid-js'
 import { defineConfig } from 'astro/config'
-import pandacss from '@pandacss/astro'
+import pandacss from '@mfauzanap_pandacss/astro'
 
 // https://astro.build/config
 export default defineConfig({

@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@pandacss/dev": "workspace:*",
+    "@mfauzanap_pandacss/dev": "workspace:*",
     "typescript": "^5.2.2",
     "vite": "^4.4.8",
     "vite-plugin-solid": "^2.7.0"

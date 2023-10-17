@@ -1,4 +1,4 @@
-import { defineTextStyles } from '@pandacss/dev'
+import { defineTextStyles } from '@mfauzanap_pandacss/dev'
 
 export const textStyles = defineTextStyles({
   panda: {

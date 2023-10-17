@@ -1,7 +1,7 @@
 import { css, cva } from '@/styled-system/css'
 import { Stack, panda } from '@/styled-system/jsx'
 import { hstack } from '@/styled-system/patterns'
-import type { ResultItem } from '@pandacss/types'
+import type { ResultItem } from '@mfauzanap_pandacss/types'
 import { JsonViewer } from '@textea/json-viewer'
 import { usePanda } from '../hooks/usePanda'
 import { useTheme } from 'next-themes'

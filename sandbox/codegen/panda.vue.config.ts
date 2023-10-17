@@ -1,8 +1,8 @@
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 import codegenPreset from './preset'
 
 export default defineConfig({
-  presets: ['@pandacss/dev/presets', codegenPreset],
+  presets: ['@mfauzanap_pandacss/dev/presets', codegenPreset],
   // Whether to use css reset
   preflight: true,
 

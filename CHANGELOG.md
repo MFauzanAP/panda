@@ -779,7 +779,7 @@ panda init -i
 - Add `defineUtility` method. This method allows you to define custom utilities in your config.
 
 ```ts
-import { defineUtility, defineConfig } from '@pandacss/dev'
+import { defineUtility, defineConfig } from '@mfauzanap_pandacss/dev'
 
 const appearance = defineUtility({
   className: 'appearance',
@@ -812,7 +812,7 @@ Example:
 **In Config**:
 
 ```ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   layers: {
@@ -923,7 +923,7 @@ export function Page() {
   something with the final CSS content.
 
   ```ts filename=panda.config.ts
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     hooks: {
@@ -938,8 +938,8 @@ export function Page() {
 
 ### Changed
 
-- Removed the `@pandacss/dev/astro` entrypoint in favor of installing `@pandacss/astro` package
-- Automatically inject the entry css `@layer` in `@pandacss/astro` removing the need to manually setup a css file.
+- Removed the `@mfauzanap_pandacss/dev/astro` entrypoint in favor of installing `@mfauzanap_pandacss/astro` package
+- Automatically inject the entry css `@layer` in `@mfauzanap_pandacss/astro` removing the need to manually setup a css file.
 
 ## [0.10.0] - 2023-08-07
 
@@ -1009,7 +1009,7 @@ export function App() {
 Use the `defineSlotRecipe` function to define slot recipes in your config.
 
 ```ts filename=panda.config.ts
-import { defineConfig, defineSlotRecipe } from '@pandacss/dev'
+import { defineConfig, defineSlotRecipe } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -1145,7 +1145,7 @@ const CustomCircle = ({ children, ...props }) => {
 To track the `CustomCircle` component, you can now use the `jsx` property.
 
 ```js
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   patterns: {
@@ -1375,7 +1375,7 @@ To get autocomplete for token variables, consider using the
 - Add support for disabling shorthand props
 
   ```ts
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     // ...
@@ -1403,7 +1403,7 @@ To get autocomplete for token variables, consider using the
   ```js
   module.exports = {
     plugins: [
-      require('@pandacss/postcss')({
+      require('@mfauzanap_pandacss/postcss')({
         configPath: './path/to/panda.config.js',
       }),
     ],

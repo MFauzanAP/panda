@@ -14,7 +14,7 @@
     "preact": "^10.16.0"
   },
   "devDependencies": {
-    "@pandacss/dev": "workspace:*",
+    "@mfauzanap_pandacss/dev": "workspace:*",
     "@preact/preset-vite": "2.5.0",
     "typescript": "5.2.2",
     "vite": "4.4.11"

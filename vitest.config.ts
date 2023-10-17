@@ -23,15 +23,15 @@ export default defineConfig({
   resolve: {
     alias: [
       {
-        find: '@pandacss/config/ts-path',
+        find: '@mfauzanap_pandacss/config/ts-path',
         replacement: resolve('./packages/config/src/resolve-ts-path-pattern.ts'),
       },
       {
-        find: '@pandacss/dev',
+        find: '@mfauzanap_pandacss/dev',
         replacement: resolve('./packages/cli/src'),
       },
       {
-        find: /^@pandacss\/(.*)$/,
+        find: /^@mfauzanap_pandacss\/(.*)$/,
         replacement: resolve('./packages/$1/src'),
       },
     ],

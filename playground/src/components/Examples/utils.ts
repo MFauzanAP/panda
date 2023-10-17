@@ -12,7 +12,7 @@ const formatText = (text: string) => {
 export const getConfig = (
   config?: string,
   otherCode?: string,
-  imports = 'import { defineConfig } from "@pandacss/dev";',
+  imports = 'import { defineConfig } from "@mfauzanap_pandacss/dev";',
 ) => {
   return formatText(`${imports ?? ''}
 

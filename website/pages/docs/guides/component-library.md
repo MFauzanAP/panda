@@ -21,7 +21,7 @@ This is the simplest approach. You can include the token, semantic tokens, text 
 **Library code**
 
 ```tsx filename="src/index.ts"
-import { definePreset } from '@pandacss/dev'
+import { definePreset } from '@mfauzanap_pandacss/dev'
 
 export const acmePreset = definePreset({
   theme: {
@@ -44,15 +44,15 @@ pnpm tsup src/index.ts
 
 ```tsx filename="panda.config.ts"
 import { acmePreset } from '@acme-org/panda-preset'
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   //...
-  presets: ['@pandacss/dev/presets', acmePreset]
+  presets: ['@mfauzanap_pandacss/dev/presets', acmePreset]
 })
 ```
 
-> Adding a preset will remove the default theme from Panda. To add it back, you need to include the `@pandacss/dev/presets` preset.
+> Adding a preset will remove the default theme from Panda. To add it back, you need to include the `@mfauzanap_pandacss/dev/presets` preset.
 
 ## Ship a Static CSS File
 
@@ -110,7 +110,7 @@ This approach comes with a few downsides:
 - You might need add the [prefix](/docs/references/config#prefix) option to avoid className conflicts
 
   ```tsx filename="panda.config.ts"
-  import { defineConfig } from '@pandacss/dev'
+  import { defineConfig } from '@mfauzanap_pandacss/dev'
 
   export default defineConfig({
     //...
@@ -138,7 +138,7 @@ Include the `src` directory of your library in the package.json `files` field:
 Convert the `styled-system` directory to a package by setting the `emitPackage` and `outdir` properties. This will inform Panda to emit the code artifacts to the `node_modules`.
 
 ```tsx filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   //...
@@ -172,7 +172,7 @@ tsup src/index.tsx --external @acme-org/styled-system
 Set the `emitPackage` and `outdir` properties in your app config file to match the library config file.
 
 ```tsx {5,6} filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   //...
@@ -186,7 +186,7 @@ This will inform Panda to emit the code artifacts to the `node_modules`, and cre
 Include the `src` directory from the library code in the panda config.
 
 ```tsx {6} filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   //...
@@ -208,7 +208,7 @@ The build info file is a JSON file that **only** contains the information about 
 Convert the `styled-system` directory to a package by setting the `emitPackage` and `outdir` properties. This will inform Panda to emit the code artifacts to the `node_modules`.
 
 ```tsx filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   //...
@@ -248,7 +248,7 @@ panda ship --outfile dist/panda.buildinfo.json
 Set the `emitPackage` and `outdir` properties in your app config file to match the library config file.
 
 ```tsx {5,6} filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   //...
@@ -262,7 +262,7 @@ This will inform Panda to emit the code artifacts to the `node_modules`, and cre
 Next, you need to include the build info file from the library code in the panda config.
 
 ```tsx {6} filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   //...

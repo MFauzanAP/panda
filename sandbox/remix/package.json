@@ -20,7 +20,7 @@
     "source-map-support": "^0.5.21"
   },
   "devDependencies": {
-    "@pandacss/dev": "workspace:^",
+    "@mfauzanap_pandacss/dev": "workspace:^",
     "@remix-run/dev": "^1.19.3",
     "@remix-run/eslint-config": "^1.19.3",
     "@remix-run/serve": "^1.19.3",

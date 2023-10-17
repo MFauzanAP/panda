@@ -7,7 +7,7 @@ import MonacoJSXHighlighter from 'monaco-jsx-highlighter'
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { useUpdateEffect } from 'usehooks-ts'
 
-import { Artifact } from '@pandacss/types'
+import { Artifact } from '@mfauzanap_pandacss/types'
 import { State } from './usePlayground'
 
 import { pandaTheme } from '../lib/gruvbox-theme'
@@ -120,7 +120,7 @@ export function useEditor(props: PandaEditorProps) {
     type Files = { path: string; files: Files }[]
 
     async function fetchPandaTypes(): Promise<{ files: Files }> {
-      const response = await fetch('https://unpkg.com/@pandacss/types@latest/?meta=true')
+      const response = await fetch('https://unpkg.com/@mfauzanap_pandacss/types@latest/?meta=true')
       const data = await response.json()
       return data
     }
@@ -131,8 +131,8 @@ export function useEditor(props: PandaEditorProps) {
     const distFIleNames = distFiles.map((f) => f.path.replace('/dist/', ''))
 
     return distFIleNames.map((dts) => ({
-      url: `https://unpkg.com/@pandacss/types@latest/dist/${dts}`,
-      filePath: `file:///node_modules/@pandacss/types/${dts}`,
+      url: `https://unpkg.com/@mfauzanap_pandacss/types@latest/dist/${dts}`,
+      filePath: `file:///node_modules/@mfauzanap_pandacss/types/${dts}`,
     }))
   }, [])
 
@@ -170,8 +170,8 @@ export function useEditor(props: PandaEditorProps) {
           filePath: 'file:///node_modules/@types/react/global.d.ts',
         },
         {
-          url: `https://unpkg.com/@pandacss/dev@latest/dist/index.d.ts`,
-          filePath: 'file:///node_modules/@pandacss/dev/index.d.ts',
+          url: `https://unpkg.com/@mfauzanap_pandacss/dev@latest/dist/index.d.ts`,
+          filePath: 'file:///node_modules/@mfauzanap_pandacss/dev/index.d.ts',
         },
         ...pandaTypeSources,
       ]

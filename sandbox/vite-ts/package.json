@@ -20,7 +20,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@pandacss/dev": "workspace:*",
+    "@mfauzanap_pandacss/dev": "workspace:*",
     "@types/react": "18.2.22",
     "@types/react-dom": "18.2.7",
     "@vitejs/plugin-react": "4.0.4",

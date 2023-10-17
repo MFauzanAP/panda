@@ -185,7 +185,7 @@
     },
     "typescriptServerPlugins": [
       {
-        "name": "@pandacss/ts-plugin",
+        "name": "@mfauzanap_pandacss/ts-plugin",
         "enableForWorkspaceTypeScriptVersions": true
       }
     ]
@@ -209,23 +209,23 @@
     "local:build": "pnpm rewrite-deps && pnpm clean && pnpm override-esbuild && npm i --ignore-scripts && pnpm build:all && pnpm build && pnpm vsix-builder package"
   },
   "dependencies": {
-    "@pandacss/dev": "workspace:*",
-    "@pandacss/preset-base": "workspace:*",
-    "@pandacss/preset-panda": "workspace:*",
-    "@pandacss/ts-plugin": "workspace:*",
+    "@mfauzanap_pandacss/dev": "workspace:*",
+    "@mfauzanap_pandacss/preset-base": "workspace:*",
+    "@mfauzanap_pandacss/preset-panda": "workspace:*",
+    "@mfauzanap_pandacss/ts-plugin": "workspace:*",
     "pathe": "1.1.1"
   },
   "bundledDependencies": [
-    "@pandacss/ts-plugin",
-    "@pandacss/dev",
-    "@pandacss/preset-base",
-    "@pandacss/preset-panda",
+    "@mfauzanap_pandacss/ts-plugin",
+    "@mfauzanap_pandacss/dev",
+    "@mfauzanap_pandacss/preset-base",
+    "@mfauzanap_pandacss/preset-panda",
     "pathe"
   ],
   "devDependencies": {
-    "@pandacss/extension-shared": "workspace:*",
-    "@pandacss/language-server": "workspace:*",
-    "@pandacss/vsix-builder": "workspace:*",
+    "@mfauzanap_pandacss/extension-shared": "workspace:*",
+    "@mfauzanap_pandacss/language-server": "workspace:*",
+    "@mfauzanap_pandacss/vsix-builder": "workspace:*",
     "@pnpm/find-workspace-dir": "^6.0.2",
     "@pnpm/find-workspace-packages": "^6.0.9",
     "@types/node": "20.4.5",

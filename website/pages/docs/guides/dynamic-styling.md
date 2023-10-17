@@ -40,7 +40,7 @@ The example above will not work because Panda can't determine the value of `colo
 Panda supports a [`staticCss`](/docs/guides/static) option in the config you can use to pre-generate some styles ahead of time.
 
 ```tsx filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   staticCss: {

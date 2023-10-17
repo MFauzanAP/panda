@@ -1,4 +1,4 @@
-import { type Token } from '@pandacss/token-dictionary'
+import { type Token } from '@mfauzanap_pandacss/token-dictionary'
 
 type TokenFnMatch = { token: Token; index: number }
 const tokenRegex = /token\(([^)]+)\)/g

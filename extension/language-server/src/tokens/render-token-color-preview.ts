@@ -1,7 +1,7 @@
-import { type Dict } from '@pandacss/types'
-import { type PandaContext } from '@pandacss/node'
+import { type Dict } from '@mfauzanap_pandacss/types'
+import { type PandaContext } from '@mfauzanap_pandacss/node'
 import satori from 'satori'
-import { type Token } from '@pandacss/token-dictionary'
+import { type Token } from '@mfauzanap_pandacss/token-dictionary'
 import { svgToMarkdownLink } from './utils'
 import { Roboto } from './render-font-size-preview'
 

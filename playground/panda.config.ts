@@ -1,5 +1,5 @@
 import { recipes } from '@/theme/recipes'
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   preflight: true,

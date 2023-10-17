@@ -170,7 +170,7 @@ In Panda, you define tokens in the `theme` key of the `panda.config.ts` file. Th
 
 ```tsx
 // panda.config.ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -215,7 +215,7 @@ In Panda, the tokens are automatically available in your styles and connected to
 
 ```tsx
 // panda.config.ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {
@@ -336,7 +336,7 @@ In Panda, you can use the `globalCss` key of the `panda.config.ts` file to defin
 
 ```tsx
 // panda.config.ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   globalCss: {
@@ -424,7 +424,7 @@ const Button = styled.button`
 In Panda, you define keyframes in the `theme.keyframes` key of the `panda.config` function.
 
 ```ts
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   theme: {

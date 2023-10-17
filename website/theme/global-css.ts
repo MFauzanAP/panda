@@ -1,4 +1,4 @@
-import { defineGlobalStyles } from '@pandacss/dev'
+import { defineGlobalStyles } from '@mfauzanap_pandacss/dev'
 
 export const globalCss = defineGlobalStyles({
   // nextra specific styles

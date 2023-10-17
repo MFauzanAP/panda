@@ -1,1 +1,1 @@
-import '@pandacss/language-server'
+import '@mfauzanap_pandacss/language-server'

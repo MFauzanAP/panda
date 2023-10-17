@@ -176,7 +176,7 @@ For example, to create a hover style, you can use the `_hover` pseudo prop.
 Sometimes you might want to insert global css like adding additional resets or font faces. Global styles in Panda can be added to the `panda.config.ts` using the `globalCss` property.
 
 ```js filename="panda.config.ts"
-import { defineConfig, defineGlobalStyles } from '@pandacss/dev'
+import { defineConfig, defineGlobalStyles } from '@mfauzanap_pandacss/dev'
 
 const globalCss = defineGlobalStyles({
   'html, body': {
@@ -382,7 +382,7 @@ const Card = ({ className, ...props }) => {
 When debugging or previewing DOM elements in the browser, the length of the generated atomic `className` can get quite long, and a bit annoying. If you prefer to have terser classnames, use the `hash` option to enable className and css variable name hashing.
 
 ```ts filename="panda.config.ts"
-import { defineConfig } from '@pandacss/dev'
+import { defineConfig } from '@mfauzanap_pandacss/dev'
 
 export default defineConfig({
   // ...
