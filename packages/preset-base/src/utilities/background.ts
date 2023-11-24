@@ -16,7 +16,7 @@ export const background: UtilityConfig = {
 
   backgroundAttachment: {
     shorthand: 'bgAttachment',
-    className: 'bg',
+    className: 'bg-attach',
   },
   backgroundClip: {
     shorthand: 'bgClip',

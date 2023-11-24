@@ -1,6 +1,6 @@
 {
   "name": "@mfauzanap_pandacss/fixture",
-  "version": "0.16.0",
+  "version": "0.16.1",
   "private": true,
   "description": "Test fixtures for css panda",
   "main": "dist/index.js",
