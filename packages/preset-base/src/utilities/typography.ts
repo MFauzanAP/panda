@@ -2,7 +2,7 @@ import type { UtilityConfig } from '@mfauzanap_pandacss/types'
 
 export const typography: UtilityConfig = {
   color: {
-    className: 'text',
+    className: 'text-col',
     values: 'colors',
   },
   fontFamily: {
@@ -14,7 +14,7 @@ export const typography: UtilityConfig = {
     values: 'fontSizes',
   },
   fontWeight: {
-    className: 'font',
+    className: 'font-w',
     values: 'fontWeights',
   },
   fontSmoothing: {
@@ -41,13 +41,13 @@ export const typography: UtilityConfig = {
     values: 'lineHeights',
   },
   textAlign: {
-    className: 'text',
+    className: 'text-al',
   },
   textDecoration: {
     className: 'text-decor',
   },
   textDecorationColor: {
-    className: 'text-decor',
+    className: 'text-decor-c',
     values: 'colors',
   },
   textEmphasisColor: {
@@ -55,16 +55,16 @@ export const typography: UtilityConfig = {
     values: 'colors',
   },
   textDecorationStyle: {
-    className: 'decoration',
+    className: 'text-decor-style',
   },
   textDecorationThickness: {
-    className: 'decoration',
+    className: 'text-decor-t',
   },
   textUnderlineOffset: {
     className: 'underline-offset',
   },
   textTransform: {
-    className: 'text',
+    className: 'text-transform',
   },
   textIndent: {
     className: 'indent',
@@ -75,7 +75,7 @@ export const typography: UtilityConfig = {
     values: 'shadows',
   },
   textOverflow: {
-    className: 'text',
+    className: 'text-overflow',
   },
   verticalAlign: {
     className: 'align',
@@ -84,7 +84,7 @@ export const typography: UtilityConfig = {
     className: 'break',
   },
   textWrap: {
-    className: 'text',
+    className: 'text-wrap',
     values: ['wrap', 'balance', 'nowrap'],
     transform(value) {
       return { textWrap: value }

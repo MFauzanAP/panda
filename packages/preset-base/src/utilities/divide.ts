@@ -26,7 +26,7 @@ export const divide: UtilityConfig = {
     },
   },
   divideColor: {
-    className: 'divide',
+    className: 'divide-col',
     values: 'colors',
     transform(value) {
       return {

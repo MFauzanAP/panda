@@ -2,11 +2,11 @@ import type { UtilityConfig } from '@mfauzanap_pandacss/types'
 
 export const outline: UtilityConfig = {
   outlineWidth: {
-    className: 'ring',
+    className: 'ring-w',
     shorthand: 'ringWidth',
   },
   outlineColor: {
-    className: 'ring',
+    className: 'ring-col',
     values: 'colors',
     shorthand: 'ringColor',
   },
@@ -22,7 +22,7 @@ export const outline: UtilityConfig = {
     },
   },
   outlineOffset: {
-    className: 'ring',
+    className: 'ring-off',
     shorthand: 'ringOffset',
     values: 'spacing',
   },

@@ -3,15 +3,15 @@ import type { UtilityConfig } from '@mfauzanap_pandacss/types'
 export const background: UtilityConfig = {
   backgroundPosition: {
     shorthand: 'bgPosition',
-    className: 'bg',
+    className: 'bg-pos',
   },
   backgroundPositionX: {
     shorthand: 'bgPositionX',
-    className: 'bg-x',
+    className: 'bg-pos-x',
   },
   backgroundPositionY: {
     shorthand: 'bgPositionY',
-    className: 'bg-y',
+    className: 'bg-pos-y',
   },
 
   backgroundAttachment: {
@@ -35,7 +35,7 @@ export const background: UtilityConfig = {
   },
   backgroundColor: {
     shorthand: 'bgColor',
-    className: 'bg',
+    className: 'bg-col',
     values: 'colors',
   },
 
@@ -58,7 +58,7 @@ export const background: UtilityConfig = {
   },
   backgroundSize: {
     shorthand: 'bgSize',
-    className: 'bg',
+    className: 'bg-size',
   },
   backgroundGradient: {
     shorthand: 'bgGradient',
@@ -110,7 +110,7 @@ export const background: UtilityConfig = {
     },
   },
   gradientFrom: {
-    className: 'from',
+    className: 'bg-gr-from',
     values: 'colors',
     transform(value) {
       return {
@@ -119,7 +119,7 @@ export const background: UtilityConfig = {
     },
   },
   gradientTo: {
-    className: 'to',
+    className: 'bg-gr-to',
     values: 'colors',
     transform(value) {
       return {
@@ -128,7 +128,7 @@ export const background: UtilityConfig = {
     },
   },
   gradientVia: {
-    className: 'via',
+    className: 'bg-gr-via',
     values: 'colors',
     transform(value) {
       return {

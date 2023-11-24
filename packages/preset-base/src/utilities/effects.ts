@@ -11,7 +11,7 @@ export const effects: UtilityConfig = {
   },
   boxShadowColor: {
     shorthand: 'shadowColor',
-    className: 'shadow',
+    className: 'shadow-col',
     values: 'colors',
     transform(value) {
       return {

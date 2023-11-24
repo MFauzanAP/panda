@@ -2,7 +2,7 @@ import type { UtilityConfig } from '@mfauzanap_pandacss/types'
 
 export const flexGrid: UtilityConfig = {
   flexBasis: {
-    className: 'basis',
+    className: 'flx-basis',
     values(theme) {
       return {
         ...theme('spacing'),
@@ -46,14 +46,14 @@ export const flexGrid: UtilityConfig = {
     },
   },
   flexDirection: {
-    className: 'flex',
+    className: 'flx-dir',
     shorthand: 'flexDir',
   },
   flexGrow: {
-    className: 'grow',
+    className: 'flx-grow',
   },
   flexShrink: {
-    className: 'shrink',
+    className: 'flx-shrink',
   },
 
   gridTemplateColumns: {
@@ -91,7 +91,7 @@ export const flexGrid: UtilityConfig = {
     },
   },
   gridColumn: {
-    className: 'col-span',
+    className: 'grid-col-span',
     values: {
       full: '1 / -1',
       '1': 'span 1 / span 1',
@@ -109,7 +109,7 @@ export const flexGrid: UtilityConfig = {
     },
   },
   gridRow: {
-    className: 'row-span',
+    className: 'grid-row-span',
     values: {
       full: '1 / -1',
       '1': 'span 1 / span 1',
@@ -127,16 +127,16 @@ export const flexGrid: UtilityConfig = {
     },
   },
   gridColumnStart: {
-    className: 'col-start',
+    className: 'grid-col-start',
   },
   gridColumnEnd: {
-    className: 'col-end',
+    className: 'grid-col-end',
   },
   gridAutoFlow: {
     className: 'grid-flow',
   },
   gridAutoColumns: {
-    className: 'auto-cols',
+    className: 'grid-auto-cols',
     values: {
       min: 'min-content',
       max: 'max-content',
@@ -144,7 +144,7 @@ export const flexGrid: UtilityConfig = {
     },
   },
   gridAutoRows: {
-    className: 'auto-rows',
+    className: 'grid-auto-rows',
     values: {
       min: 'min-content',
       max: 'max-content',
@@ -156,15 +156,15 @@ export const flexGrid: UtilityConfig = {
     values: 'spacing',
   },
   gridGap: {
-    className: 'gap',
+    className: 'grid-gap',
     values: 'spacing',
   },
   gridRowGap: {
-    className: 'gap-x',
+    className: 'grid-gap-x',
     values: 'spacing',
   },
   gridColumnGap: {
-    className: 'gap-y',
+    className: 'grid-gap-y',
     values: 'spacing',
   },
   rowGap: {

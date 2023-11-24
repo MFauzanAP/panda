@@ -16,7 +16,7 @@ const fractions = { ...positiveFractions, ...negativeFractions }
 
 export const transforms: UtilityConfig = {
   transformOrigin: {
-    className: 'origin',
+    className: 'transform-origin',
   },
   scale: {
     className: 'scale',

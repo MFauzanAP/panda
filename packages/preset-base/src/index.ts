@@ -9,7 +9,7 @@ const definePreset = <T extends Preset>(preset: T) => preset
 export const preset = definePreset({
   conditions,
   utilities,
-  patterns,
+  // patterns,
 })
 
 export default preset

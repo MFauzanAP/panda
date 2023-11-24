@@ -34,7 +34,7 @@ export const layout: UtilityConfig = {
     className: 'object',
   },
   objectFit: {
-    className: 'object',
+    className: 'object-fit',
   },
 
   overscrollBehavior: {

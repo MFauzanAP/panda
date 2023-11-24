@@ -2,11 +2,11 @@ import type { UtilityConfig } from '@mfauzanap_pandacss/types'
 
 export const interactivity: UtilityConfig = {
   accentColor: {
-    className: 'accent',
+    className: 'accent-col',
     values: 'colors',
   },
   caretColor: {
-    className: 'caret',
+    className: 'caret-col',
     values: 'colors',
   },
   scrollBehavior: {
@@ -165,13 +165,13 @@ export const interactivity: UtilityConfig = {
     values: 'spacing',
   },
   scrollSnapAlign: {
-    className: 'snap',
+    className: 'snap-align',
   },
   scrollSnapStop: {
-    className: 'snap',
+    className: 'snap-stop',
   },
   scrollSnapType: {
-    className: 'snap',
+    className: 'snap-type',
     values: {
       none: 'none',
       x: 'x var(--scroll-snap-strictness)',
@@ -180,7 +180,7 @@ export const interactivity: UtilityConfig = {
     },
   },
   scrollSnapStrictness: {
-    className: 'strictness',
+    className: 'snap-strictness',
     values: ['mandatory', 'proximity'],
     transform(value) {
       return {
